@@ -53,11 +53,14 @@ Neovim                   2 mins              ░░░░░░░░░░░�
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-## DevOps
+## DevOps / SRE
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Dependabot](https://img.shields.io/badge/dependabot-025E8C?style=for-the-badge&logo=dependabot&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![New Relic](https://img.shields.io/badge/New%20Relic-008C99?style=for-the-badge&logo=newrelic&logoColor=white)
+
 
 ## Data Engineering
 ![Dagster](https://img.shields.io/badge/dagster-task_orchestrator-%231C6FE2.svg?&style=for-the-badge&logoColor=white)
@@ -65,9 +68,10 @@ Neovim                   2 mins              ░░░░░░░░░░░�
 ![Data lake](https://img.shields.io/badge/aws_s3-data_lake-%23FF9900?style=for-the-badge&logo=amazons3&logoColor=white)
 
 ### Databases
-![Postgres](https://img.shields.io/badge/postgres-relational-%23336791.svg?&style=for-the-badge&logo=postgresql&logoColor=white)
-![BigQuery](https://img.shields.io/badge/BigQuery-columnar-%234285F4?style=for-the-badge&logoColor=white)
-![MongoDB](https://img.shields.io/badge/mongodb-nosql-%2347A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23336791.svg?&style=for-the-badge&logo=postgresql&logoColor=white)
+![AmazonDynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-%234285F4?style=for-the-badge&logoColor=white&logo=google-cloud)
+![MongoDB](https://img.shields.io/badge/mongodb-%2347A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white)
 
 ## DS & ML
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
@@ -84,7 +88,7 @@ Neovim                   2 mins              ░░░░░░░░░░░�
 
 
 ## Work Setup
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/vscode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
 
