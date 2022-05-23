@@ -1,4 +1,4 @@
-| 🎵 Now Playing                                                                                                                    |
+| 🎵 Recently Played                                                                                                                    |
 | ------------------------------------------------------------------------------------------------------------------------------ |
 | <a href="https://raw.githubusercontent.com/kahnwong/kahnwong/master/now-playing.svg"><img src="https://raw.githubusercontent.com/kahnwong/kahnwong/master/now-playing.svg" width="540" height="64"></a> |
 
