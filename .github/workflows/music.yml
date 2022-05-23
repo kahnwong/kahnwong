@@ -1,0 +1,30 @@
+name: Update tracks
+
+on:
+  schedule:
+    - cron: "*/10 * * * *"
+  # push:
+  #   branches: [master, main]
+  workflow_dispatch:
+jobs:
+  update-readme:
+    name: Update tracks
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Install pipenv
+        run: pipx install pipenv
+      - uses: actions/setup-python@v2
+        with:
+          python-version: "3.10"
+          cache: pipenv
+      - run: pipenv install
+      - name: Update music tracks
+        env:
+          USERNAME: ${{ secrets.USERNAME  }}
+          TOKEN: ${{ secrets.TOKEN  }}
+          SALT: ${{ secrets.SALT  }}
+          BASE_URL: ${{ secrets.BASE_URL  }}
+        run: |
+          pipenv run python3 main.py
+      - uses: stefanzweifel/git-auto-commit-action@v4
