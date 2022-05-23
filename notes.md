@@ -1,0 +1,1 @@
+SVG template from https://github.com/natemoo-re/natemoo-re

@@ -1,0 +1,121 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" width="540" height="64" viewBox="0 0 540 64" data-reactroot=""><foreignObject width="540" height="64"><div xmlns="http://www.w3.org/1999/xhtml"><style>
+              * {
+                margin: 0;
+                box-sizing: border-box;
+              }
+              :root {
+                color: rgb(36, 41, 46);
+                background: #FFF;
+              }
+
+              @media (prefers-color-scheme: dark) {
+                :root {
+                  color: rgb(201, 209, 217);
+                  background: rgb(13, 17, 23);
+                }
+
+                p {
+                  color: inherit !important;
+                }
+              }
+            </style><style>
+            .paused { 
+              animation-play-state: paused !important;
+              background: #e1e4e8 !important;
+            }
+
+            img:not([src]) {
+              content: url("data:image/gif;base64,R0lGODlhAQABAPAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==");
+              background: #FFF;
+              border: 1px solid #e1e4e8;
+            }
+
+            img {
+              border-radius: 3px;
+            }
+
+            p {
+              display: block;
+              opacity: 0;
+            }
+
+
+            #progress {
+              position: absolute;
+              top: -1px;
+              left: 0;
+              width: 100%;
+              height: 6px;
+              transform-origin: left center;
+              background-color: #24292e;
+              animation: progress 273333ms linear;
+              animation-delay: -1321ms;
+            }
+            
+           
+            #track,
+            #artist,
+            #cover {
+              opacity: 0;
+              animation: appear 300ms ease-out forwards;
+            }
+
+            #track {
+              animation-delay: 400ms;
+            }
+            #artist {
+              animation-delay: 500ms;
+            }
+            
+
+            #cover {
+              animation-name: cover-appear;
+              animation-delay: 300ms;
+              box-shadow: 0 1px 3px rgba(0,0,0,0.1), 0 3px 10px rgba(0,0,0,0.05);
+            }
+
+            #cover:not([src]) {
+              box-shadow: none;
+            }
+
+            @keyframes cover-appear {
+              from {
+                opacity: 0;
+                transform: scale(0.8);
+              }
+              to {
+                opacity: 1;
+                transform: scale(1);
+              }
+            }
+
+            @keyframes appear {
+              from {
+                opacity: 0;
+                transform: translateX(-8px);
+              }
+              to {
+                opacity: 1;
+                transform: translateX(0);
+              }
+            }
+
+            @keyframes progress {
+              from {
+                transform: scaleX(0)
+              }
+              to {
+                transform: scaleX(1)
+              }
+            }
+        </style>
+        
+        <div class="disabled" style="display:flex;align-items:center;padding-top:8px;padding-left:4px"><p style="width:16px;margin-right:16px;white-space:pre;font-size:16px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600">▶</p><img id="cover" 
+        
+        src="data:image/jpeg;base64,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"
+        
+        
+        width="48" height="48" /><div style="display:flex;flex:1;flex-direction:column;margin-top:-4px;margin-left:8px"><p style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:600" id="track"><tspan template-id="title">Mea Culpa (The Embrace That Smothers - Prologue)</tspan></p><p style="white-space:pre;font-size:14px;line-height:1.5;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#24292e;font-weight:400" id="artist"><tspan template-id="artist">After Forever</tspan></p><div class="a"></div></div></div></div></foreignObject>
+          
+      
+      </svg>

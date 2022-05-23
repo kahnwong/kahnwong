@@ -1,3 +1,82 @@
+| 🎵 Now Playing                                                                                                                    |
+| ------------------------------------------------------------------------------------------------------------------------------ |
+| <a href="https://raw.githubusercontent.com/kahnwong/kahnwong/dev/now-playing.svg"><img src="https://raw.githubusercontent.com/kahnwong/kahnwong/dev/now-playing.svg" width="540" height="64"></a> |
+
+
+<table>
+  <thead>
+    <tr>
+      <th>🔀 Random Tracks</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <a
+          href="https://raw.githubusercontent.com/kahnwong/kahnwong/dev/random-song-0.svg"
+          ><img
+            src="https://raw.githubusercontent.com/kahnwong/kahnwong/dev/random-song-0.svg"
+            width="540"
+            height="64"
+        /></a>
+      </td>
+    </tr>
+    <tr></tr>
+    <!-- hide gray row -->
+    <tr>
+      <td>
+        <a
+          href="https://raw.githubusercontent.com/kahnwong/kahnwong/dev/random-song-1.svg"
+          ><img
+            src="https://raw.githubusercontent.com/kahnwong/kahnwong/dev/random-song-1.svg"
+            width="540"
+            height="64"
+        /></a>
+      </td>
+    </tr>
+    <tr></tr>
+    <!-- hide gray row -->
+    <tr>
+      <td>
+        <a
+          href="https://raw.githubusercontent.com/kahnwong/kahnwong/dev/random-song-2.svg"
+          ><img
+            src="https://raw.githubusercontent.com/kahnwong/kahnwong/dev/random-song-2.svg"
+            width="540"
+            height="64"
+        /></a>
+      </td>
+    </tr>
+    <tr></tr>
+    <!-- hide gray row -->
+    <tr>
+      <td>
+        <a
+          href="https://raw.githubusercontent.com/kahnwong/kahnwong/dev/random-song-3.svg"
+          ><img
+            src="https://raw.githubusercontent.com/kahnwong/kahnwong/dev/random-song-3.svg"
+            width="540"
+            height="64"
+        /></a>
+      </td>
+    </tr>
+    <tr></tr>
+    <!-- hide gray row -->
+    <tr>
+      <td>
+        <a
+          href="https://raw.githubusercontent.com/kahnwong/kahnwong/dev/random-song-4.svg"
+          ><img
+            src="https://raw.githubusercontent.com/kahnwong/kahnwong/dev/random-song-4.svg"
+            width="540"
+            height="64"
+        /></a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+
 ## Statistics
 
 <!--START_SECTION:waka-->
