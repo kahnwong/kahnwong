@@ -2,7 +2,7 @@ name: Update tracks
 
 on:
   schedule:
-    - cron: "*/10 * * * *"
+    - cron: "*/20 * * * *"
   # push:
   #   branches: [master, main]
   workflow_dispatch:
