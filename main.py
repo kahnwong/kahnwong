@@ -2,6 +2,7 @@ import requests
 import os
 import base64
 import random
+import shutil
 
 
 BASE_URL = os.environ["BASE_URL"]
@@ -26,11 +27,15 @@ def _parse_track_info(track_info):
     }
 
 
-def get_now_playinig(params=params):
+def get_now_playing(params=params):
     r = requests.get(f"{BASE_URL}/rest/getNowPlaying", params=params).json()
-    r = r["subsonic-response"]["nowPlaying"]["entry"][0]
 
-    return _parse_track_info(r)
+    try:
+        r = r["subsonic-response"]["nowPlaying"]["entry"][0]
+
+        return _parse_track_info(r)
+    except KeyError:
+        return None
 
 
 def get_random_songs(params=params):
@@ -52,8 +57,8 @@ def get_cover_art(covert_art_id: str, params=params):
 
 def _generate_svg(track_info, cover_art: str, out_filename: str, template=template):
     template = (
-        template.replace("TITLE", track_info["title"])
-        .replace("ARTIST", track_info["artist"])
+        template.replace("TITLE", track_info["title"].replace("&", "&amp;"))
+        .replace("ARTIST", track_info["artist"].replace("&", "&amp;"))
         .replace("BASE64_IMAGE_STRING", cover_art)
     )
 
@@ -63,9 +68,11 @@ def _generate_svg(track_info, cover_art: str, out_filename: str, template=templa
 
 if __name__ == "__main__":
     ### now_playing
-    now_playing = get_now_playinig()
-    cover_art = get_cover_art(now_playing["coverArt"])
-    _generate_svg(now_playing, cover_art, "now-playing")
+    if now_playing := get_now_playing():
+        cover_art = get_cover_art(now_playing["coverArt"])
+        _generate_svg(now_playing, cover_art, "now-playing")
+    else:
+        shutil.copy("template/now-playing-null.svg", "now-playing.svg")
 
     ### random_songs
     random_songs = get_random_songs()
