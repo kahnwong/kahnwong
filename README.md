@@ -1,6 +1,6 @@
 | 🎵 Recently Played                                                                                                                    |
 | ------------------------------------------------------------------------------------------------------------------------------ |
-| <a href="https://raw.githubusercontent.com/kahnwong/kahnwong/master/now-playing.svg"><img src="https://raw.githubusercontent.com/kahnwong/kahnwong/master/now-playing.svg" width="540" height="64"></a> |
+| <a href="https://raw.githubusercontent.com/kahnwong/subsonic-github-readme/master/output/now-playing.svg"><img src="https://raw.githubusercontent.com/kahnwong/subsonic-github-readme/master/output/now-playing.svg" width="540" height="64"></a> |
 
 
 <table>
@@ -13,9 +13,9 @@
     <tr>
       <td>
         <a
-          href="https://raw.githubusercontent.com/kahnwong/kahnwong/master/random-song-0.svg"
+          href="https://raw.githubusercontent.com/kahnwong/subsonic-github-readme/master/output/random-song-0.svg"
           ><img
-            src="https://raw.githubusercontent.com/kahnwong/kahnwong/master/random-song-0.svg"
+            src="https://raw.githubusercontent.com/kahnwong/subsonic-github-readme/master/output/random-song-0.svg"
             width="540"
             height="64"
         /></a>
@@ -26,9 +26,9 @@
     <tr>
       <td>
         <a
-          href="https://raw.githubusercontent.com/kahnwong/kahnwong/master/random-song-1.svg"
+          href="https://raw.githubusercontent.com/kahnwong/subsonic-github-readme/master/output/random-song-1.svg"
           ><img
-            src="https://raw.githubusercontent.com/kahnwong/kahnwong/master/random-song-1.svg"
+            src="https://raw.githubusercontent.com/kahnwong/subsonic-github-readme/master/output/random-song-1.svg"
             width="540"
             height="64"
         /></a>
@@ -39,9 +39,9 @@
     <tr>
       <td>
         <a
-          href="https://raw.githubusercontent.com/kahnwong/kahnwong/master/random-song-2.svg"
+          href="https://raw.githubusercontent.com/kahnwong/subsonic-github-readme/master/output/random-song-2.svg"
           ><img
-            src="https://raw.githubusercontent.com/kahnwong/kahnwong/master/random-song-2.svg"
+            src="https://raw.githubusercontent.com/kahnwong/subsonic-github-readme/master/output/random-song-2.svg"
             width="540"
             height="64"
         /></a>
@@ -52,9 +52,9 @@
     <tr>
       <td>
         <a
-          href="https://raw.githubusercontent.com/kahnwong/kahnwong/master/random-song-3.svg"
+          href="https://raw.githubusercontent.com/kahnwong/subsonic-github-readme/master/output/random-song-3.svg"
           ><img
-            src="https://raw.githubusercontent.com/kahnwong/kahnwong/master/random-song-3.svg"
+            src="https://raw.githubusercontent.com/kahnwong/subsonic-github-readme/master/output/random-song-3.svg"
             width="540"
             height="64"
         /></a>
@@ -65,9 +65,9 @@
     <tr>
       <td>
         <a
-          href="https://raw.githubusercontent.com/kahnwong/kahnwong/master/random-song-4.svg"
+          href="https://raw.githubusercontent.com/kahnwong/subsonic-github-readme/master/output/random-song-4.svg"
           ><img
-            src="https://raw.githubusercontent.com/kahnwong/kahnwong/master/random-song-4.svg"
+            src="https://raw.githubusercontent.com/kahnwong/subsonic-github-readme/master/output/random-song-4.svg"
             width="540"
             height="64"
         /></a>
