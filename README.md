@@ -97,52 +97,53 @@ More on [karnwong.me](https://www.karnwong.me/posts/)
 ## Statistics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-470%20hrs%2050%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-536%20hrs%2056%20mins-blue)
 
-**I'm a Night 🦉**
-
-```text
-🌞 Morning    98 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.51%
-🌆 Daytime    428 commits    █████████░░░░░░░░░░░░░░░░   37.15%
-🌃 Evening    533 commits    ███████████░░░░░░░░░░░░░░   46.27%
-🌙 Night      93 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.07%
-
-```
-📅 **I'm Most Productive on Thursday**
+**I'm a Night 🦉** 
 
 ```text
-Monday       169 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.67%
-Tuesday      180 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.62%
-Wednesday    169 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.67%
-Thursday     190 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.49%
-Friday       175 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.19%
-Saturday     128 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   11.11%
-Sunday       141 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.24%
+🌞 Morning    82 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.17% 
+🌆 Daytime    343 commits    █████████░░░░░░░░░░░░░░░░   38.37% 
+🌃 Evening    401 commits    ███████████░░░░░░░░░░░░░░   44.85% 
+🌙 Night      68 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.61%
+
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday       137 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.32% 
+Tuesday      133 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.88% 
+Wednesday    142 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.88% 
+Thursday     146 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.33% 
+Friday       133 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.88% 
+Saturday     106 commits    ███░░░░░░░░░░░░░░░░░░░░░░   11.86% 
+Sunday       97 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.85%
 
 ```
 
 
-📊 **This Week I Spent My Time On**
+📊 **This Week I Spent My Time On** 
 
 ```text
 ⌚︎ Time Zone: Asia/Bangkok
 
-💬 Programming Languages:
-YAML                     5 hrs 20 mins       █████████░░░░░░░░░░░░░░░░   37.37%
-Other                    3 hrs 7 mins        █████░░░░░░░░░░░░░░░░░░░░   21.86%
-JSON                     1 hr 55 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.49%
-Bash                     59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.96%
-Markdown                 48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.63%
+💬 Programming Languages: 
+Other                    14 hrs 18 mins      ██████████░░░░░░░░░░░░░░░   40.6% 
+Terraform                5 hrs 58 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.95% 
+Python                   4 hrs 18 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.24% 
+YAML                     3 hrs 34 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   10.14% 
+Bash                     1 hr 29 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   4.23%
 
-🔥 Editors:
-VS Code                  11 hrs 31 mins      ████████████████████░░░░░   80.54%
-Unknown Editor           2 hrs 45 mins       ████░░░░░░░░░░░░░░░░░░░░░   19.22%
-Neovim                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.24%
+🔥 Editors: 
+VS Code                  21 hrs 10 mins      ███████████████░░░░░░░░░░   60.09% 
+Unknown Editor           10 hrs 14 mins      ███████░░░░░░░░░░░░░░░░░░   29.09% 
+Google Calendar          3 hrs 45 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   10.64% 
+Neovim                   3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.18%
 
 ```
 
 
- Last Updated on 08/05/2022 07:49:56 UTC
+ Last Updated on 25/05/2022 06:28:30 UTC
 <!--END_SECTION:waka-->
 
 ## Languages
