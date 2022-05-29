@@ -97,7 +97,7 @@ More on [karnwong.me](https://www.karnwong.me/posts/)
 ## Statistics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-561%20hrs%2022%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 **I'm a Night 🦉** 
 
@@ -144,7 +144,7 @@ Google Calendar          15 mins             ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 29/05/2022 16:44:43 UTC
+ Last Updated on 29/05/2022 17:03:51 UTC
 <!--END_SECTION:waka-->
 
 ## Languages
