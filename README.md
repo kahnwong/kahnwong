@@ -99,7 +99,7 @@ More on [karnwong.me](https://www.karnwong.me/posts/)
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-579%20hrs%2011%20mins-blue)
 
-**I'm a night 🦉** 
+**I'm a Night 🦉** 
 
 ```text
 🌞 Morning    89 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.04% 
@@ -108,7 +108,7 @@ More on [karnwong.me](https://www.karnwong.me/posts/)
 🌙 Night      75 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.62%
 
 ```
-📅 **I'm most productive on Thursday** 
+📅 **I'm Most Productive on Thursday** 
 
 ```text
 Monday       150 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.24% 
@@ -122,7 +122,7 @@ Sunday       120 commits    ███░░░░░░░░░░░░░░�
 ```
 
 
-📊 **This week I spent my time on** 
+📊 **This Week I Spent My Time On** 
 
 ```text
 ⌚︎ Time Zone: Asia/Bangkok
@@ -141,7 +141,7 @@ Neovim                   0 secs              ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 12/06/2022 08:09:20 UTC
+ Last Updated on 12/06/2022 08:32:35 UTC
 <!--END_SECTION:waka-->
 
 ## Languages
