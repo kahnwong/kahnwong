@@ -79,17 +79,7 @@
 
 ## On my blog
 <!-- blog starts -->
-[What SQL can't do for data engineering](https://www.karnwong.me/posts/what-sql-cant-do-for-data-engineering/) - 2022-05-15
 
-[Use SSH key during docker build without embedding the key via ssh-agent](https://www.karnwong.me/posts/use-ssh-key-during-docker-build-without-embedding-the-key-via-ssh-agent/) - 2022-02-06
-
-[Use pyspark locally with docker](https://www.karnwong.me/posts/use-pyspark-locally-with-docker/) - 2021-12-21
-
-[Reduce docker image size with alpine](https://www.karnwong.me/posts/reduce-docker-image-size-with-alpine/) - 2021-12-19
-
-[Secrets management with SOPS, AWS SSM and Terraform](https://www.karnwong.me/posts/secrets-management-with-sops-aws-ssm-terraform/) - 2021-11-30
-
-[Run GitHub Actions faster with cache for pipenv and docker build](https://www.karnwong.me/posts/run-github-actions-faster-with-cache-for-pipenv-and-docker-build/) - 2021-11-09
 <!-- blog ends -->
 More on [karnwong.me](https://www.karnwong.me/posts/)
 </td><td valign="top" width="33%">
