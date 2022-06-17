@@ -97,7 +97,7 @@ More on [karnwong.me](https://www.karnwong.me/posts/)
 ## Statistics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-603%20hrs%2023%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-603%20hrs%2025%20mins-blue)
 
 **I'm a Night 🦉** 
 
@@ -142,7 +142,7 @@ Neovim                   50 mins             █░░░░░░░░░░�
 ```
 
 
- Last Updated on 17/06/2022 06:38:00 UTC
+ Last Updated on 17/06/2022 06:52:57 UTC
 <!--END_SECTION:waka-->
 
 ## Languages
