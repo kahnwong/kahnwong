@@ -1,11 +1,33 @@
-# Active communities
+<h1 align="center"><code>Hello, I'm Karn! 👋</code></h1>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/karn-w-7b535b202"><img src="https://img.shields.io/badge/-karn&ndash;w&ndash;7b535b202-0072b1?style=flat&logo=Linkedin&logoColor=white" /></a>
+<a href="https://github.com/kahnwong"><img src="https://img.shields.io/badge/-kahnwong-3a3a3a?style=flat&logo=GitHub&logoColor=white" /></a>
+<a href="https://www.discord.com"><img src="https://img.shields.io/badge/-kahnwong%237593-5865F2?style=flat&logo=discord&logoColor=white" /></a>
+</p>
+
+<p align="center">
+<a href="mailto:contact@karnwong.me"><code>contact at karnwong dot me</code></a>
+</p>
+
+## Active communities
 
 - [Data Engineering Discord](https://invite.gg/dataengineering) (English)
 - [Data Science Discord](https://discord.com/invite/UYNaemm) (English)
 - [DevOps, SRE, & Infrastructure Discord](https://discord.com/invite/VEEnHkPzY6) (English)
 - [Data Engineer Cafe](https://discuss.dataengineercafe.io) (Thai)
 
----
+## On my blog
+
+<!-- blog starts -->
+
+<!-- blog ends -->
+
+More on [karnwong.me](https://www.karnwong.me/posts/)
+
+</td><td valign="top" width="33%">
+
+## Music
 
 | 🎵 Recently Played                                                                                                                                                                                                                                |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -83,16 +105,6 @@
     </tr>
   </tbody>
 </table>
-
-## On my blog
-
-<!-- blog starts -->
-
-<!-- blog ends -->
-
-More on [karnwong.me](https://www.karnwong.me/posts/)
-
-</td><td valign="top" width="33%">
 
 ## Statistics
 
