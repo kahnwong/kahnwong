@@ -158,7 +158,7 @@ Last Updated on 08/05/2022 07:49:56 UTC
 
 <!--END_SECTION:waka-->
 
-## Languages
+<!-- ## Languages
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
@@ -211,4 +211,4 @@ Last Updated on 08/05/2022 07:49:56 UTC
 ![CPU](https://img.shields.io/badge/AMD-Ryzen_3_3600-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
 ![GPU](https://img.shields.io/badge/NVIDIA-GTX1060_6GB-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 ![Laptop](https://img.shields.io/badge/Apple-MacBook%20Air%20M1-999999?style=for-the-badge&logo=apple&logoColor=white)
-![Homelab](https://img.shields.io/badge/NUC-homelab-007DB8?style=for-the-badge&logo=intel&logoColor=white)
+![Homelab](https://img.shields.io/badge/NUC-homelab-007DB8?style=for-the-badge&logo=intel&logoColor=white) -->
