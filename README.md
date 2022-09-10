@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-<a href="mailto:contact@karnwong.me"><code>contact at karnwong dot me</code></a>
+<a href="mailto:karn@karnwong.me"><code>karn at karnwong dot me</code></a>
 </p>
 
 ## Active communities
