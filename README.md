@@ -1,7 +1,7 @@
 <h1 align="center"><code>Hello, I'm Karn! 👋</code></h1>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/karnsiree-w-7b535b202/"><img src="https://img.shields.io/badge/-karn&ndash;w&ndash;7b535b202-0072b1?style=flat&logo=Linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/karnsiree-w-7b535b202/"><img src="https://img.shields.io/badge/-karnsiree&ndash;w&ndash;7b535b202-0072b1?style=flat&logo=Linkedin&logoColor=white" /></a>
 <a href="https://github.com/kahnwong"><img src="https://img.shields.io/badge/-kahnwong-3a3a3a?style=flat&logo=GitHub&logoColor=white" /></a>
 <a href="https://www.discord.com"><img src="https://img.shields.io/badge/-kahnwong%237593-5865F2?style=flat&logo=discord&logoColor=white" /></a>
 </p>
