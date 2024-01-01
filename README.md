@@ -20,7 +20,17 @@
 ## On my blog
 
 <!-- blog starts -->
+[Should data scientists deploy models to production?](https://karnwong.me/posts/2023/12/should-data-scientists-deploy-models-to-production/) - 2023-12-30
 
+[Setting up Postgres locally, what could go wrong?](https://karnwong.me/posts/2023/12/setting-up-postgres-locally/) - 2023-12-23
+
+[Things to watch out for GCP SSL with Cloudflare DNS](https://karnwong.me/posts/2023/12/things-to-watch-out-for-gcp-ssl-with-cloudflare-dns/) - 2023-12-18
+
+[Serverless real-time machine learning inference with AWS](https://karnwong.me/posts/2023/11/serverless-real-time-machine-learning-inference-with-aws/) - 2023-11-28
+
+[Some problems can be solved with workflows](https://karnwong.me/posts/2023/11/some-problems-can-be-solved-with-workflows/) - 2023-11-24
+
+[Using Apache Iceberg to reduce data lake operations overhead](https://karnwong.me/posts/2023/11/using-apache-iceberg-to-reduce-data-lake-operations-overhead/) - 2023-11-15
 <!-- blog ends -->
 
 More on [karnwong.me](https://www.karnwong.me/posts/)
