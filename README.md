@@ -20,6 +20,8 @@
 ## On my blog
 
 <!-- blog starts -->
+[What is platform engineering?](https://karnwong.me/posts/2024/01/what-is-platform-engineering/) - 2024-01-21
+
 [Collaboration model for data science projects](https://karnwong.me/posts/2024/01/collaboration-model-for-data-science-projects/) - 2024-01-20
 
 [Should data scientists deploy models to production?](https://karnwong.me/posts/2023/12/should-data-scientists-deploy-models-to-production/) - 2023-12-30
@@ -29,8 +31,6 @@
 [Things to watch out for GCP SSL with Cloudflare DNS](https://karnwong.me/posts/2023/12/things-to-watch-out-for-gcp-ssl-with-cloudflare-dns/) - 2023-12-18
 
 [Serverless real-time machine learning inference with AWS](https://karnwong.me/posts/2023/11/serverless-real-time-machine-learning-inference-with-aws/) - 2023-11-28
-
-[Some problems can be solved with workflows](https://karnwong.me/posts/2023/11/some-problems-can-be-solved-with-workflows/) - 2023-11-24
 <!-- blog ends -->
 
 More on [karnwong.me](https://www.karnwong.me/posts/)
