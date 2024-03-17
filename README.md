@@ -20,6 +20,8 @@
 ## On my blog
 
 <!-- blog starts -->
+[Dataframe write performance to Postgres](https://karnwong.me/posts/2024/03/dataframe-write-performance-to-postgres/) - 2024-03-17
+
 [How to connect to Cloud SQL from Cloud Run (no, you don't need a VPC)](https://karnwong.me/posts/2024/02/how-to-connect-to-cloud-sql-from-cloud-run/) - 2024-02-10
 
 [What is platform engineering?](https://karnwong.me/posts/2024/01/what-is-platform-engineering/) - 2024-01-21
@@ -29,8 +31,6 @@
 [Should data scientists deploy models to production?](https://karnwong.me/posts/2023/12/should-data-scientists-deploy-models-to-production/) - 2023-12-30
 
 [Setting up Postgres locally, what could go wrong?](https://karnwong.me/posts/2023/12/setting-up-postgres-locally/) - 2023-12-23
-
-[Things to watch out for GCP SSL with Cloudflare DNS](https://karnwong.me/posts/2023/12/things-to-watch-out-for-gcp-ssl-with-cloudflare-dns/) - 2023-12-18
 <!-- blog ends -->
 
 More on [karnwong.me](https://www.karnwong.me/posts/)
