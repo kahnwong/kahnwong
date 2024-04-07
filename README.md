@@ -20,6 +20,8 @@
 ## On my blog
 
 <!-- blog starts -->
+[Slim down python docker image size with poetry and pip](https://karnwong.me/posts/2024/04/slim-down-python-docker-image-size-with-poetry-and-pip/) - 2024-04-07
+
 [Dataframe write performance to Postgres](https://karnwong.me/posts/2024/03/dataframe-write-performance-to-postgres/) - 2024-03-17
 
 [How to connect to Cloud SQL from Cloud Run (no, you don't need a VPC)](https://karnwong.me/posts/2024/02/how-to-connect-to-cloud-sql-from-cloud-run/) - 2024-02-10
@@ -29,8 +31,6 @@
 [Collaboration model for data science projects](https://karnwong.me/posts/2024/01/collaboration-model-for-data-science-projects/) - 2024-01-20
 
 [Should data scientists deploy models to production?](https://karnwong.me/posts/2023/12/should-data-scientists-deploy-models-to-production/) - 2023-12-30
-
-[Setting up Postgres locally, what could go wrong?](https://karnwong.me/posts/2023/12/setting-up-postgres-locally/) - 2023-12-23
 <!-- blog ends -->
 
 More on [karnwong.me](https://www.karnwong.me/posts/)
