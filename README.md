@@ -20,6 +20,8 @@
 ## On my blog
 
 <!-- blog starts -->
+[Thoughts on summarization service's system design](https://karnwong.me/posts/2024/06/thoughts-on-summarization-service/) - 2024-06-09
+
 [Faster spark workloads with comet](https://karnwong.me/posts/2024/04/faster-spark-workloads-with-comet/) - 2024-04-07
 
 [Slim down python docker image size with poetry and pip](https://karnwong.me/posts/2024/04/slim-down-python-docker-image-size-with-poetry-and-pip/) - 2024-04-07
@@ -29,8 +31,6 @@
 [How to connect to Cloud SQL from Cloud Run (no, you don't need a VPC)](https://karnwong.me/posts/2024/02/how-to-connect-to-cloud-sql-from-cloud-run/) - 2024-02-10
 
 [What is platform engineering?](https://karnwong.me/posts/2024/01/what-is-platform-engineering/) - 2024-01-21
-
-[Collaboration model for data science projects](https://karnwong.me/posts/2024/01/collaboration-model-for-data-science-projects/) - 2024-01-20
 <!-- blog ends -->
 
 More on [karnwong.me](https://www.karnwong.me/posts/)
