@@ -20,7 +20,7 @@
 ## On my blog
 
 <!-- blog starts -->
-[Thoughts on summarization service's system design](https://karnwong.me/posts/2024/06/thoughts-on-summarization-service/) - 2024-06-09
+[Thoughts on summarization service system design](https://karnwong.me/posts/2024/06/thoughts-on-summarization-service-system-design/) - 2024-06-09
 
 [Faster spark workloads with comet](https://karnwong.me/posts/2024/04/faster-spark-workloads-with-comet/) - 2024-04-07
 
