@@ -90,7 +90,7 @@ More on [karnwong.me](https://www.karnwong.me/posts/)
 
 | 🎵 Recently Played                                                                                                                                                                                                                                |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <a href="https://raw.githubusercontent.com/kahnwong/subsonic-github-readme/master/output/now-playing.svg"><img src="https://raw.githubusercontent.com/kahnwong/subsonic-github-readme/master/output/now-playing.svg" width="540" height="64"></a> |
+| <a href="https://subsonic-widgets.karnwong.me/now-playing.svg"><img src="https://subsonic-widgets.karnwong.me/now-playing.svg" width="540" height="64"></a> |
 
 <table>
   <thead>
@@ -102,9 +102,9 @@ More on [karnwong.me](https://www.karnwong.me/posts/)
     <tr>
       <td>
         <a
-          href="https://raw.githubusercontent.com/kahnwong/subsonic-github-readme/master/output/random-album-0.svg"
+          href="https://subsonic-widgets.karnwong.me/random-album-1.svg"
           ><img
-            src="https://raw.githubusercontent.com/kahnwong/subsonic-github-readme/master/output/random-album-0.svg"
+            src="https://subsonic-widgets.karnwong.me/random-album-1.svg"
             width="540"
             height="64"
         /></a>
@@ -115,9 +115,9 @@ More on [karnwong.me](https://www.karnwong.me/posts/)
     <tr>
       <td>
         <a
-          href="https://raw.githubusercontent.com/kahnwong/subsonic-github-readme/master/output/random-album-1.svg"
+          href="https://subsonic-widgets.karnwong.me/random-album-2.svg"
           ><img
-            src="https://raw.githubusercontent.com/kahnwong/subsonic-github-readme/master/output/random-album-1.svg"
+            src="https://subsonic-widgets.karnwong.me/random-album-2.svg"
             width="540"
             height="64"
         /></a>
@@ -128,9 +128,9 @@ More on [karnwong.me](https://www.karnwong.me/posts/)
     <tr>
       <td>
         <a
-          href="https://raw.githubusercontent.com/kahnwong/subsonic-github-readme/master/output/random-album-2.svg"
+          href="https://subsonic-widgets.karnwong.me/random-album-3.svg"
           ><img
-            src="https://raw.githubusercontent.com/kahnwong/subsonic-github-readme/master/output/random-album-2.svg"
+            src="https://subsonic-widgets.karnwong.me/random-album-3.svg"
             width="540"
             height="64"
         /></a>
@@ -141,9 +141,9 @@ More on [karnwong.me](https://www.karnwong.me/posts/)
     <tr>
       <td>
         <a
-          href="https://raw.githubusercontent.com/kahnwong/subsonic-github-readme/master/output/random-album-3.svg"
+          href="https://subsonic-widgets.karnwong.me/random-album-4.svg"
           ><img
-            src="https://raw.githubusercontent.com/kahnwong/subsonic-github-readme/master/output/random-album-3.svg"
+            src="https://subsonic-widgets.karnwong.me/random-album-4.svg"
             width="540"
             height="64"
         /></a>
@@ -154,9 +154,9 @@ More on [karnwong.me](https://www.karnwong.me/posts/)
     <tr>
       <td>
         <a
-          href="https://raw.githubusercontent.com/kahnwong/subsonic-github-readme/master/output/random-album-4.svg"
+          href="https://subsonic-widgets.karnwong.me/random-album-5.svg"
           ><img
-            src="https://raw.githubusercontent.com/kahnwong/subsonic-github-readme/master/output/random-album-4.svg"
+            src="https://subsonic-widgets.karnwong.me/random-album-5.svg"
             width="540"
             height="64"
         /></a>
