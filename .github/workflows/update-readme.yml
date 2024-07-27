@@ -23,7 +23,7 @@ jobs:
       - name: Update feed
         run: |
           pipenv run python3 readme_feed.py
-      - uses: stefanzweifel/git-auto-commit-action@v4
+      - uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_author: My GitHub Actions Bot <my-github-actions-bot@example.org>
   # update-readme:
