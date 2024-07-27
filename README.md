@@ -20,7 +20,17 @@
 ## On my blog
 
 <!-- blog starts -->
+[GCP's service account credentials can be a security risk. Here's how to mitigate them.](https://karnwong.me/posts/2024/07/gcps-service-account-credentials-can-be-a-security-risk-heres-how-to-mitigate-them/) - 2024-07-14
 
+[Thoughts on summarization service system design](https://karnwong.me/posts/2024/06/thoughts-on-summarization-service-system-design/) - 2024-06-09
+
+[Faster spark workloads with comet](https://karnwong.me/posts/2024/04/faster-spark-workloads-with-comet/) - 2024-04-07
+
+[Slim down python docker image size with poetry and pip](https://karnwong.me/posts/2024/04/slim-down-python-docker-image-size-with-poetry-and-pip/) - 2024-04-07
+
+[Dataframe write performance to Postgres](https://karnwong.me/posts/2024/03/dataframe-write-performance-to-postgres/) - 2024-03-17
+
+[How to connect to Cloud SQL from Cloud Run (no, you don't need a VPC)](https://karnwong.me/posts/2024/02/how-to-connect-to-cloud-sql-from-cloud-run/) - 2024-02-10
 <!-- blog ends -->
 
 More on [karnwong.me](https://www.karnwong.me/posts/)
