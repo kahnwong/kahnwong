@@ -7,6 +7,10 @@
 </p>
 
 <p align="center">
+<a href="https://buymeacoffee.com/kahnwong"><img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00.svg?style=for-the-badge&logo=Buy-Me-A-Coffee&logoColor=black" /></a>
+</p>
+
+<p align="center">
 <a href="mailto:karn@karnwong.me"><code>karn at karnwong dot me</code></a>
 </p>
 
