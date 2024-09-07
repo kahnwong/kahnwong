@@ -24,6 +24,8 @@
 ## On my blog
 
 <!-- blog starts -->
+[Streamlit load test performance](https://karnwong.me/posts/2024/09/streamlit-load-test-performance/) - 2024-09-07
+
 [Simplify self-hosting backups to S3 with docker](https://karnwong.me/posts/2024/09/simplify-self-hosting-backups-to-s3-with-docker/) - 2024-09-07
 
 [Reasons why you shouldn't use programming languages for IaC](https://karnwong.me/posts/2024/08/reasons-why-you-shouldnt-use-programming-languages-for-iac/) - 2024-08-05
@@ -33,8 +35,6 @@
 [Thoughts on summarization service system design](https://karnwong.me/posts/2024/06/thoughts-on-summarization-service-system-design/) - 2024-06-09
 
 [Faster spark workloads with comet](https://karnwong.me/posts/2024/04/faster-spark-workloads-with-comet/) - 2024-04-07
-
-[Slim down python docker image size with poetry and pip](https://karnwong.me/posts/2024/04/slim-down-python-docker-image-size-with-poetry-and-pip/) - 2024-04-07
 <!-- blog ends -->
 
 More on [karnwong.me](https://www.karnwong.me/posts/)
