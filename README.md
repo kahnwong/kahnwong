@@ -24,6 +24,8 @@
 ## On my blog
 
 <!-- blog starts -->
+[Simplify self-hosting backups to S3 with docker](https://karnwong.me/posts/2024/09/simplify-self-hosting-backups-to-s3-with-docker/) - 2024-09-07
+
 [Reasons why you shouldn't use programming languages for IaC](https://karnwong.me/posts/2024/08/reasons-why-you-shouldnt-use-programming-languages-for-iac/) - 2024-08-05
 
 [GCP's service account credentials can be a security risk. Here's how to mitigate them.](https://karnwong.me/posts/2024/07/gcps-service-account-credentials-can-be-a-security-risk-heres-how-to-mitigate-them/) - 2024-07-14
@@ -33,8 +35,6 @@
 [Faster spark workloads with comet](https://karnwong.me/posts/2024/04/faster-spark-workloads-with-comet/) - 2024-04-07
 
 [Slim down python docker image size with poetry and pip](https://karnwong.me/posts/2024/04/slim-down-python-docker-image-size-with-poetry-and-pip/) - 2024-04-07
-
-[Dataframe write performance to Postgres](https://karnwong.me/posts/2024/03/dataframe-write-performance-to-postgres/) - 2024-03-17
 <!-- blog ends -->
 
 More on [karnwong.me](https://www.karnwong.me/posts/)
