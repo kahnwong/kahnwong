@@ -24,6 +24,8 @@
 ## On my blog
 
 <!-- blog starts -->
+[AWS IAM credentials best practices](https://karnwong.me/posts/2024/10/aws-iam-credentials-best-practices/) - 2024-10-05
+
 [Hello World API Performance Benchmark (Go, Node, Python, Rust)](https://karnwong.me/posts/2024/09/hello-world-api-performance-benchmark-go-node-python-rust/) - 2024-09-20
 
 [Streamlit load test performance](https://karnwong.me/posts/2024/09/streamlit-load-test-performance/) - 2024-09-07
@@ -33,8 +35,6 @@
 [Reasons why you shouldn't use programming languages for IaC](https://karnwong.me/posts/2024/08/reasons-why-you-shouldnt-use-programming-languages-for-iac/) - 2024-08-05
 
 [GCP's service account credentials can be a security risk. Here's how to mitigate them.](https://karnwong.me/posts/2024/07/gcps-service-account-credentials-can-be-a-security-risk-heres-how-to-mitigate-them/) - 2024-07-14
-
-[Thoughts on summarization service system design](https://karnwong.me/posts/2024/06/thoughts-on-summarization-service-system-design/) - 2024-06-09
 <!-- blog ends -->
 
 More on [karnwong.me](https://www.karnwong.me/posts/)
