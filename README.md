@@ -24,6 +24,8 @@
 ## On my blog
 
 <!-- blog starts -->
+[LLM serving latency benchmark](https://karnwong.me/posts/2024/10/llm-serving-latency-benchmark/) - 2024-10-09
+
 [When (not) to use Terraform](https://karnwong.me/posts/2024/10/when-not-to-use-terraform/) - 2024-10-05
 
 [AWS IAM credentials best practices](https://karnwong.me/posts/2024/10/aws-iam-credentials-best-practices/) - 2024-10-05
@@ -33,8 +35,6 @@
 [Streamlit load test performance](https://karnwong.me/posts/2024/09/streamlit-load-test-performance/) - 2024-09-07
 
 [Simplify self-hosting backups to S3 with docker](https://karnwong.me/posts/2024/09/simplify-self-hosting-backups-to-s3-with-docker/) - 2024-09-07
-
-[Reasons why you shouldn't use programming languages for IaC](https://karnwong.me/posts/2024/08/reasons-why-you-shouldnt-use-programming-languages-for-iac/) - 2024-08-05
 <!-- blog ends -->
 
 More on [karnwong.me](https://www.karnwong.me/posts/)
