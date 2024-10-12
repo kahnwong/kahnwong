@@ -24,6 +24,8 @@
 ## On my blog
 
 <!-- blog starts -->
+[Calling C from Go, Python and Rust benchmark](https://karnwong.me/posts/2024/10/calling-c-from-go-python-and-rust-benchmark/) - 2024-10-12
+
 [LLM serving latency benchmark](https://karnwong.me/posts/2024/10/llm-serving-latency-benchmark/) - 2024-10-09
 
 [When (not) to use Terraform](https://karnwong.me/posts/2024/10/when-not-to-use-terraform/) - 2024-10-05
@@ -33,8 +35,6 @@
 [Hello World API Performance Benchmark (Go, Node, Python, Rust)](https://karnwong.me/posts/2024/09/hello-world-api-performance-benchmark-go-node-python-rust/) - 2024-09-20
 
 [Streamlit load test performance](https://karnwong.me/posts/2024/09/streamlit-load-test-performance/) - 2024-09-07
-
-[Simplify self-hosting backups to S3 with docker](https://karnwong.me/posts/2024/09/simplify-self-hosting-backups-to-s3-with-docker/) - 2024-09-07
 <!-- blog ends -->
 
 More on [karnwong.me](https://www.karnwong.me/posts/)
