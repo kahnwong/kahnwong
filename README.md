@@ -24,17 +24,7 @@
 ## On my blog
 
 <!-- blog starts -->
-[Various notes on career-related stuff](https://karnwong.me/posts/2024/10/various-notes-on-career-related-stuff/) - 2024-10-19
 
-[Calling C from Go, Python and Rust benchmark](https://karnwong.me/posts/2024/10/calling-c-from-go-python-and-rust-benchmark/) - 2024-10-12
-
-[LLM serving latency benchmark](https://karnwong.me/posts/2024/10/llm-serving-latency-benchmark/) - 2024-10-09
-
-[When (not) to use Terraform](https://karnwong.me/posts/2024/10/when-not-to-use-terraform/) - 2024-10-05
-
-[AWS IAM credentials best practices](https://karnwong.me/posts/2024/10/aws-iam-credentials-best-practices/) - 2024-10-05
-
-[Hello World API Performance Benchmark (Go, Node, Python, Rust)](https://karnwong.me/posts/2024/09/hello-world-api-performance-benchmark-go-node-python-rust/) - 2024-09-20
 <!-- blog ends -->
 
 More on [karnwong.me](https://www.karnwong.me/posts/)
