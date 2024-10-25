@@ -72,6 +72,8 @@ More on [karnwong.me](https://www.karnwong.me/posts/)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Proxmox](https://img.shields.io/badge/Proxmox-E57000.svg?style=for-the-badge&logo=proxmox&logoColor=white)
 
+![Authentik](https://img.shields.io/badge/Authentik-FD4B2D.svg?style=for-the-badge&logo=Authentik&logoColor=white)
+
 ![Infracost](https://img.shields.io/badge/Infracost-DB44B8.svg?style=for-the-badge&logo=Infracost&logoColor=white)
 ![NewRelic](https://img.shields.io/badge/New%20Relic-1CE783.svg?style=for-the-badge&logo=New-Relic&logoColor=white)
 
