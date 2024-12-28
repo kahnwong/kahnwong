@@ -76,14 +76,19 @@ More on [karnwong.me](https://www.karnwong.me/posts/)
 ![Authentik](https://img.shields.io/badge/Authentik-FD4B2D.svg?style=for-the-badge&logo=Authentik&logoColor=white)
 
 ![Infracost](https://img.shields.io/badge/Infracost-DB44B8.svg?style=for-the-badge&logo=Infracost&logoColor=white)
-![NewRelic](https://img.shields.io/badge/New%20Relic-1CE783.svg?style=for-the-badge&logo=New-Relic&logoColor=white)
 
-### Databases
+[//]: # (![NewRelic]&#40;https://img.shields.io/badge/New%20Relic-1CE783.svg?style=for-the-badge&logo=New-Relic&logoColor=white&#41;)
 
-![Postgres](https://img.shields.io/badge/postgres-%23336791.svg?&style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=MongoDB&logoColor=white)
-![BigQuery](https://img.shields.io/badge/BigQuery-%234285F4?style=for-the-badge&logoColor=white&logo=google-cloud)
-![DuckDB](https://img.shields.io/badge/DuckDB-FFF000.svg?style=for-the-badge&logo=DuckDB&logoColor=black)
+[//]: # (### Databases)
+
+[//]: # ()
+[//]: # (![Postgres]&#40;https://img.shields.io/badge/postgres-%23336791.svg?&style=for-the-badge&logo=postgresql&logoColor=white&#41;)
+
+[//]: # (![MongoDB]&#40;https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=MongoDB&logoColor=white&#41;)
+
+[//]: # (![BigQuery]&#40;https://img.shields.io/badge/BigQuery-%234285F4?style=for-the-badge&logoColor=white&logo=google-cloud&#41;)
+
+[//]: # (![DuckDB]&#40;https://img.shields.io/badge/DuckDB-FFF000.svg?style=for-the-badge&logo=DuckDB&logoColor=black&#41;)
 
 ### Cloud
 
@@ -118,20 +123,29 @@ More on [karnwong.me](https://www.karnwong.me/posts/)
 [//]: # (![GCS]&#40;https://img.shields.io/badge/Google%20Cloud%20Storage-AECBFA.svg?style=for-the-badge&logo=Google-Cloud-Storage&logoColor=black&#41;)
 
 
-### Python
-![FastAPI](https://img.shields.io/badge/FastAPI-009688.svg?style=for-the-badge&logo=FastAPI&logoColor=white)
-![Pydantic](https://img.shields.io/badge/Pydantic-E92063.svg?style=for-the-badge&logo=Pydantic&logoColor=white)
-![Pytest](https://img.shields.io/badge/Pytest-0A9EDC.svg?style=for-the-badge&logo=Pytest&logoColor=white)
+[//]: # (### Python)
 
-### Data / ML
+[//]: # (![FastAPI]&#40;https://img.shields.io/badge/FastAPI-009688.svg?style=for-the-badge&logo=FastAPI&logoColor=white&#41;)
 
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C.svg?style=for-the-badge&logo=Apache-Spark&logoColor=white)
-![Apache Parquet](https://img.shields.io/badge/Apache%20Parquet-50ABF1.svg?style=for-the-badge&logo=Apache-Parquet&logoColor=white)
-![Polars](https://img.shields.io/badge/Polars-CD792C.svg?style=for-the-badge&logo=Polars&logoColor=white)
+[//]: # (![Pydantic]&#40;https://img.shields.io/badge/Pydantic-E92063.svg?style=for-the-badge&logo=Pydantic&logoColor=white&#41;)
 
-![Ray](https://img.shields.io/badge/Ray-028CF0.svg?style=for-the-badge&logo=Ray&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikitlearn-F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![DVC](https://img.shields.io/badge/DVC-13ADC7.svg?style=for-the-badge&logo=DVC&logoColor=white)
+[//]: # (![Pytest]&#40;https://img.shields.io/badge/Pytest-0A9EDC.svg?style=for-the-badge&logo=Pytest&logoColor=white&#41;)
+
+[//]: # (### Data / ML)
+
+[//]: # ()
+[//]: # (![Apache Spark]&#40;https://img.shields.io/badge/Apache%20Spark-E25A1C.svg?style=for-the-badge&logo=Apache-Spark&logoColor=white&#41;)
+
+[//]: # (![Apache Parquet]&#40;https://img.shields.io/badge/Apache%20Parquet-50ABF1.svg?style=for-the-badge&logo=Apache-Parquet&logoColor=white&#41;)
+
+[//]: # (![Polars]&#40;https://img.shields.io/badge/Polars-CD792C.svg?style=for-the-badge&logo=Polars&logoColor=white&#41;)
+
+[//]: # ()
+[//]: # (![Ray]&#40;https://img.shields.io/badge/Ray-028CF0.svg?style=for-the-badge&logo=Ray&logoColor=white&#41;)
+
+[//]: # (![scikit-learn]&#40;https://img.shields.io/badge/scikitlearn-F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white&#41;)
+
+[//]: # (![DVC]&#40;https://img.shields.io/badge/DVC-13ADC7.svg?style=for-the-badge&logo=DVC&logoColor=white&#41;)
 
 ### Geospatial
 
