@@ -39,8 +39,6 @@
 ## On my blog
 
 <!-- blog starts -->
-[Native Implementation vs Wasm for Go, Python and Rust Benchmark](https://karnwong.me/posts/2024/12/native-implementation-vs-wasm-for-go-python-and-rust-benchmark/) - 2024-12-04
-
 [Various notes on career-related stuff](https://karnwong.me/posts/2024/10/various-notes-on-career-related-stuff/) - 2024-10-19
 
 [Calling C from Go, Python and Rust benchmark](https://karnwong.me/posts/2024/10/calling-c-from-go-python-and-rust-benchmark/) - 2024-10-12
