@@ -19,7 +19,7 @@ def replace_chunk(content, marker, chunk, inline=False):
 
 
 def fetch_blog_entries():
-    entries = feedparser.parse("https://www.karnwong.me/index.xml")["entries"]
+    entries = feedparser.parse("https://karnwong.me/posts/rss.xml")["entries"]
     return [
         {
             "title": entry["title"],
