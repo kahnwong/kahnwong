@@ -1,26 +1,40 @@
-<h1 align="center"><code>Hello, I'm Karn! 👋</code></h1>
+[//]: # (<h1 align="center"><code>Hello, I'm Karn! 👋</code></h1>)
+[//]: # ()
+[//]: # (<p align="center">)
 
-<p align="center">
-<a href="https://github.com/kahnwong"><img src="https://img.shields.io/badge/-kahnwong-3a3a3a?style=flat&logo=GitHub&logoColor=white" /></a>
-<a href="https://bsky.app/profile/karnwong.me"><img src="https://img.shields.io/badge/@karnwong.me-0285FF.svg?style=flat&logo=Bluesky&logoColor=white" /></a>
-<a href="https://www.discord.com"><img src="https://img.shields.io/badge/-kahnwong%237593-5865F2?style=flat&logo=discord&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/karnsiree-w-7b535b202/"><img src="https://img.shields.io/badge/-karnsiree&ndash;w&ndash;7b535b202-0072b1?style=flat&logo=Linkedin&logoColor=white" /></a>
-</p>
+[//]: # ()
+[//]: # ([//]: # &#40;<a href="https://github.com/kahnwong"><img src="https://img.shields.io/badge/-kahnwong-3a3a3a?style=flat&logo=GitHub&logoColor=white" /></a>&#41;)
+[//]: # ([//]: # &#40;<a href="https://bsky.app/profile/karnwong.me"><img src="https://img.shields.io/badge/@karnwong.me-0285FF.svg?style=flat&logo=Bluesky&logoColor=white" /></a>&#41;)
+[//]: # ()
+[//]: # ([//]: # &#40;<a href="https://www.discord.com"><img src="https://img.shields.io/badge/-kahnwong%237593-5865F2?style=flat&logo=discord&logoColor=white" /></a>&#41;)
+[//]: # ()
+[//]: # ([//]: # &#40;<a href="https://www.linkedin.com/in/karnsiree-w-7b535b202/"><img src="https://img.shields.io/badge/-karnsiree&ndash;w&ndash;7b535b202-0072b1?style=flat&logo=Linkedin&logoColor=white" /></a>&#41;)
+[//]: # (</p>)
 
-<p align="center">
-<a href="https://buymeacoffee.com/kahnwong"><img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00.svg?style=for-the-badge&logo=Buy-Me-A-Coffee&logoColor=black" /></a>
-</p>
+[//]: # ()
+[//]: # (<p align="center">)
 
-<p align="center">
-<a href="mailto:karn@karnwong.me"><code>karn at karnwong dot me</code></a>
-</p>
+[//]: # (<a href="https://buymeacoffee.com/kahnwong"><img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00.svg?style=for-the-badge&logo=Buy-Me-A-Coffee&logoColor=black" /></a>)
 
-## Active communities
+[//]: # (</p>)
 
-- [Data Engineering Discord](https://invite.gg/dataengineering) (English)
-- [Data Science Discord](https://discord.com/invite/UYNaemm) (English)
-- [DevOps, SRE, & Infrastructure Discord](https://discord.com/invite/VEEnHkPzY6) (English)
-- [Data Engineer Cafe](https://discuss.dataengineercafe.io) (Thai)
+[//]: # ()
+[//]: # (<p align="center">)
+
+[//]: # (<a href="mailto:karn@karnwong.me"><code>karn at karnwong dot me</code></a>)
+
+[//]: # (</p>)
+
+[//]: # (## Active communities)
+
+[//]: # ()
+[//]: # (- [Data Engineering Discord]&#40;https://invite.gg/dataengineering&#41; &#40;English&#41;)
+
+[//]: # (- [Data Science Discord]&#40;https://discord.com/invite/UYNaemm&#41; &#40;English&#41;)
+
+[//]: # (- [DevOps, SRE, & Infrastructure Discord]&#40;https://discord.com/invite/VEEnHkPzY6&#41; &#40;English&#41;)
+
+[//]: # (- [Data Engineer Cafe]&#40;https://discuss.dataengineercafe.io&#41; &#40;Thai&#41;)
 
 ## On my blog
 
@@ -50,9 +64,9 @@ More on [karnwong.me](https://www.karnwong.me/posts/)
 ![python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)
 ![rust](https://img.shields.io/badge/Rust-000000.svg?style=for-the-badge&logo=Rust&logoColor=white)
 
-## Tools
+[//]: # (## Tools)
 
-### Cloud Native
+## Cloud Native
 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
@@ -66,16 +80,22 @@ More on [karnwong.me](https://www.karnwong.me/posts/)
 ![MiniO](https://img.shields.io/badge/MinIO-C72E49.svg?style=for-the-badge&logo=MinIO&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2.svg?style=for-the-badge&logo=MLflow&logoColor=white)
 
-### DevOps
+[//]: # (### DevOps)
 
-![Caddy](https://img.shields.io/badge/Caddy-1F88C0.svg?style=for-the-badge&logo=Caddy&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC.svg?style=for-the-badge&logo=Terraform&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![Proxmox](https://img.shields.io/badge/Proxmox-E57000.svg?style=for-the-badge&logo=proxmox&logoColor=white)
+[//]: # ()
+[//]: # (![Caddy]&#40;https://img.shields.io/badge/Caddy-1F88C0.svg?style=for-the-badge&logo=Caddy&logoColor=white&#41;)
 
-![Authentik](https://img.shields.io/badge/Authentik-FD4B2D.svg?style=for-the-badge&logo=Authentik&logoColor=white)
+[//]: # (![Terraform]&#40;https://img.shields.io/badge/Terraform-7B42BC.svg?style=for-the-badge&logo=Terraform&logoColor=white&#41;)
 
-![Infracost](https://img.shields.io/badge/Infracost-DB44B8.svg?style=for-the-badge&logo=Infracost&logoColor=white)
+[//]: # (![GitHub Actions]&#40;https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white&#41;)
+
+[//]: # (![Proxmox]&#40;https://img.shields.io/badge/Proxmox-E57000.svg?style=for-the-badge&logo=proxmox&logoColor=white&#41;)
+
+[//]: # ()
+[//]: # (![Authentik]&#40;https://img.shields.io/badge/Authentik-FD4B2D.svg?style=for-the-badge&logo=Authentik&logoColor=white&#41;)
+
+[//]: # ()
+[//]: # (![Infracost]&#40;https://img.shields.io/badge/Infracost-DB44B8.svg?style=for-the-badge&logo=Infracost&logoColor=white&#41;)
 
 [//]: # (![NewRelic]&#40;https://img.shields.io/badge/New%20Relic-1CE783.svg?style=for-the-badge&logo=New-Relic&logoColor=white&#41;)
 
@@ -90,7 +110,7 @@ More on [karnwong.me](https://www.karnwong.me/posts/)
 
 [//]: # (![DuckDB]&#40;https://img.shields.io/badge/DuckDB-FFF000.svg?style=for-the-badge&logo=DuckDB&logoColor=black&#41;)
 
-### Cloud
+## Cloud
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
@@ -154,9 +174,10 @@ More on [karnwong.me](https://www.karnwong.me/posts/)
 ![Folium](https://img.shields.io/badge/Folium-77B829.svg?style=for-the-badge&logo=Folium&logoColor=white)
 ![Leaflet](https://img.shields.io/badge/Leaflet-199900.svg?style=for-the-badge&logo=Leaflet&logoColor=white)
 
-### Misc
+[//]: # (### Misc)
 
-![ffmpeg](https://img.shields.io/badge/FFmpeg-007808.svg?style=for-the-badge&logo=FFmpeg&logoColor=white)
+[//]: # ()
+[//]: # (![ffmpeg]&#40;https://img.shields.io/badge/FFmpeg-007808.svg?style=for-the-badge&logo=FFmpeg&logoColor=white&#41;)
 
 ## Work Setup
 
@@ -166,8 +187,10 @@ More on [karnwong.me](https://www.karnwong.me/posts/)
 ![Nix](https://img.shields.io/badge/NIX-5277C3.svg?style=for-the-badge&logo=NixOS&logoColor=white)
 ![Flatpak](https://img.shields.io/badge/Flatpak-4A90D9.svg?style=for-the-badge&logo=Flatpak&logoColor=white)
 
+
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+
 
 ![Yubikey](https://img.shields.io/badge/Yubikey-84BD00.svg?style=for-the-badge&logo=Yubico&logoColor=white)
 ![Logitech G](https://img.shields.io/badge/Logitech%20G-00B8FC.svg?style=for-the-badge&logo=Logitech-G&logoColor=white)
