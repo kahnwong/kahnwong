@@ -39,6 +39,8 @@
 ## On my blog
 
 <!-- blog starts -->
+[Information gathering infrastructure](https://karnwong.me/posts/2024/12/information-gathering-infrastructure/) - 2024-12-30
+
 [Native Implementation vs Wasm for Go, Python and Rust Benchmark](https://karnwong.me/posts/2024/12/native-implementation-vs-wasm-for-go-python-and-rust-benchmark/) - 2024-12-04
 
 [Various notes on career-related stuff](https://karnwong.me/posts/2024/10/various-notes-on-career-related-stuff/) - 2024-10-19
@@ -48,8 +50,6 @@
 [LLM serving latency benchmark](https://karnwong.me/posts/2024/10/llm-serving-latency-benchmark/) - 2024-10-09
 
 [AWS IAM credentials best practices](https://karnwong.me/posts/2024/10/aws-iam-credentials-best-practices/) - 2024-10-05
-
-[When (not) to use Terraform](https://karnwong.me/posts/2024/10/when-not-to-use-terraform/) - 2024-10-05
 <!-- blog ends -->
 
 More on [karnwong.me](https://www.karnwong.me/posts/)
