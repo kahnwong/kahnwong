@@ -39,6 +39,8 @@
 ## On my blog
 
 <!-- blog starts -->
+[My journey for fully switching from Windows over to Linux](https://karnwong.me/posts/2025/01/my-journey-for-fully-switching-from-windows-over-to-linux/) - 2025-01-25
+
 [Information gathering infrastructure](https://karnwong.me/posts/2024/12/information-gathering-infrastructure/) - 2024-12-30
 
 [Native Implementation vs Wasm for Go, Python and Rust Benchmark](https://karnwong.me/posts/2024/12/native-implementation-vs-wasm-for-go-python-and-rust-benchmark/) - 2024-12-04
@@ -48,8 +50,6 @@
 [Calling C from Go, Python and Rust benchmark](https://karnwong.me/posts/2024/10/calling-c-from-go-python-and-rust-benchmark/) - 2024-10-12
 
 [LLM serving latency benchmark](https://karnwong.me/posts/2024/10/llm-serving-latency-benchmark/) - 2024-10-09
-
-[AWS IAM credentials best practices](https://karnwong.me/posts/2024/10/aws-iam-credentials-best-practices/) - 2024-10-05
 <!-- blog ends -->
 
 More on [karnwong.me](https://www.karnwong.me/posts/)
