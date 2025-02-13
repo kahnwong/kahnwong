@@ -39,6 +39,8 @@
 ## On my blog
 
 <!-- blog starts -->
+[Cross-platform keyring-like setup (also works without desktop environment)](https://karnwong.me/posts/2025/02/cross-platform-keyring-like-setup-also-works-without-desktop-environment/) - 2025-02-13
+
 [My journey for fully switching from Windows over to Linux](https://karnwong.me/posts/2025/01/my-journey-for-fully-switching-from-windows-over-to-linux/) - 2025-01-25
 
 [Information gathering infrastructure](https://karnwong.me/posts/2024/12/information-gathering-infrastructure/) - 2024-12-30
@@ -48,8 +50,6 @@
 [Various notes on career-related stuff](https://karnwong.me/posts/2024/10/various-notes-on-career-related-stuff/) - 2024-10-19
 
 [Calling C from Go, Python and Rust benchmark](https://karnwong.me/posts/2024/10/calling-c-from-go-python-and-rust-benchmark/) - 2024-10-12
-
-[LLM serving latency benchmark](https://karnwong.me/posts/2024/10/llm-serving-latency-benchmark/) - 2024-10-09
 <!-- blog ends -->
 
 More on [karnwong.me](https://www.karnwong.me/posts/)
