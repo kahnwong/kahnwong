@@ -39,6 +39,8 @@
 ## On my blog
 
 <!-- blog starts -->
+[WASM deployment benchmark](https://karnwong.me/posts/2025/03/wasm-deployment-benchmark/) - 2025-03-10
+
 [Migrate from Docker Desktop to Podman on Darwin](https://karnwong.me/posts/2025/03/migrate-from-docker-desktop-to-podman-on-darwin/) - 2025-03-02
 
 [Cross-platform keyring-like setup (also works without desktop environment)](https://karnwong.me/posts/2025/02/cross-platform-keyring-like-setup-also-works-without-desktop-environment/) - 2025-02-13
@@ -47,9 +49,7 @@
 
 [Information gathering infrastructure](https://karnwong.me/posts/2024/12/information-gathering-infrastructure/) - 2024-12-30
 
-[Native Implementation vs Wasm for Go, Python and Rust Benchmark](https://karnwong.me/posts/2024/12/native-implementation-vs-wasm-for-go-python-and-rust-benchmark/) - 2024-12-04
-
-[Various notes on career-related stuff](https://karnwong.me/posts/2024/10/various-notes-on-career-related-stuff/) - 2024-10-19
+[Native implementation vs WASM for Go, Python and Rust benchmark](https://karnwong.me/posts/2024/12/native-implementation-vs-wasm-for-go-python-and-rust-benchmark/) - 2024-12-04
 <!-- blog ends -->
 
 More on [karnwong.me](https://www.karnwong.me/posts/)
