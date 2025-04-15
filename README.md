@@ -39,6 +39,8 @@
 ## On my blog
 
 <!-- blog starts -->
+[WASM FFI performance benchmark](https://karnwong.me/posts/2025/04/wasm-ffi-performance-benchmark/) - 2025-04-15
+
 [WASM deployment benchmark](https://karnwong.me/posts/2025/03/wasm-deployment-benchmark/) - 2025-03-10
 
 [Migrate from Docker Desktop to Podman on Darwin](https://karnwong.me/posts/2025/03/migrate-from-docker-desktop-to-podman-on-darwin/) - 2025-03-02
@@ -48,8 +50,6 @@
 [My journey for fully switching from Windows over to Linux](https://karnwong.me/posts/2025/01/my-journey-for-fully-switching-from-windows-over-to-linux/) - 2025-01-25
 
 [Information gathering infrastructure](https://karnwong.me/posts/2024/12/information-gathering-infrastructure/) - 2024-12-30
-
-[Native implementation vs WASM for Go, Python and Rust benchmark](https://karnwong.me/posts/2024/12/native-implementation-vs-wasm-for-go-python-and-rust-benchmark/) - 2024-12-04
 <!-- blog ends -->
 
 More on [karnwong.me](https://www.karnwong.me/posts/)
