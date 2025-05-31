@@ -39,6 +39,8 @@
 ## On my blog
 
 <!-- blog starts -->
+[My code search setup throughout the years](https://karnwong.me/posts/2025/05/my-code-search-setup-throughout-the-years/) - 2025-05-31
+
 [WASM FFI performance benchmark](https://karnwong.me/posts/2025/04/wasm-ffi-performance-benchmark/) - 2025-04-15
 
 [WASM deployment benchmark](https://karnwong.me/posts/2025/03/wasm-deployment-benchmark/) - 2025-03-10
@@ -48,8 +50,6 @@
 [Cross-platform keyring-like setup (also works without desktop environment)](https://karnwong.me/posts/2025/02/cross-platform-keyring-like-setup-also-works-without-desktop-environment/) - 2025-02-13
 
 [My journey for fully switching from Windows over to Linux](https://karnwong.me/posts/2025/01/my-journey-for-fully-switching-from-windows-over-to-linux/) - 2025-01-25
-
-[Information gathering infrastructure](https://karnwong.me/posts/2024/12/information-gathering-infrastructure/) - 2024-12-30
 <!-- blog ends -->
 
 More on [karnwong.me](https://www.karnwong.me/posts/)
