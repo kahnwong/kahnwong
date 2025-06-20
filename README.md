@@ -39,6 +39,8 @@
 ## On my blog
 
 <!-- blog starts -->
+[Using Nix for CI, but with a twist](https://karnwong.me/posts/2025/06/using-nix-for-ci-but-with-a-twist/) - 2025-06-20
+
 [Hello Garage, goodbye MinIO](https://karnwong.me/posts/2025/06/hello-garage-goodbye-minio/) - 2025-06-13
 
 [Cloudflare's terraform v5 provider migration strategy](https://karnwong.me/posts/2025/06/cloudflares-terraform-v5-provider-migration-strategy/) - 2025-06-10
@@ -48,8 +50,6 @@
 [My code search setup throughout the years](https://karnwong.me/posts/2025/05/my-code-search-setup-throughout-the-years/) - 2025-05-31
 
 [WASM FFI performance benchmark](https://karnwong.me/posts/2025/04/wasm-ffi-performance-benchmark/) - 2025-04-15
-
-[WASM deployment benchmark](https://karnwong.me/posts/2025/03/wasm-deployment-benchmark/) - 2025-03-10
 <!-- blog ends -->
 
 More on [karnwong.me](https://www.karnwong.me/posts/)
