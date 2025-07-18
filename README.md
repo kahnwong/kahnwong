@@ -39,6 +39,8 @@
 ## On my blog
 
 <!-- blog starts -->
+[The true cost of deploying on EC2](https://karnwong.me/posts/2025/07/the-true-cost-of-deploying-on-ec2/) - 2025-07-18
+
 [Dataframe processing benchmarks (ภาษาไทย)](https://karnwong.me/posts/2025/07/dataframe-processing-benchmarks-th/) - 2025-07-08
 
 [Dataframe processing benchmarks](https://karnwong.me/posts/2025/07/dataframe-processing-benchmarks/) - 2025-07-08
@@ -48,8 +50,6 @@
 [Using Nix for CI, but with a twist](https://karnwong.me/posts/2025/06/using-nix-for-ci-but-with-a-twist/) - 2025-06-20
 
 [Hello Garage, goodbye MinIO](https://karnwong.me/posts/2025/06/hello-garage-goodbye-minio/) - 2025-06-13
-
-[Cloudflare's terraform v5 provider migration strategy](https://karnwong.me/posts/2025/06/cloudflares-terraform-v5-provider-migration-strategy/) - 2025-06-10
 <!-- blog ends -->
 
 More on [karnwong.me](https://www.karnwong.me/posts/)
