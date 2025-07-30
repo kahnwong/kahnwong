@@ -39,15 +39,17 @@
 ## On my blog
 
 <!-- blog starts -->
-[Various notes on career-related stuff](https://karnwong.me/posts/2024/10/various-notes-on-career-related-stuff/) - 2024-10-19
+[Terraform project structure](https://karnwong.me/posts/2025/07/terraform-project-structure/) - 2025-07-22
 
-[Calling C from Go, Python and Rust benchmark](https://karnwong.me/posts/2024/10/calling-c-from-go-python-and-rust-benchmark/) - 2024-10-12
+[The true cost of deploying on EC2](https://karnwong.me/posts/2025/07/the-true-cost-of-deploying-on-ec2/) - 2025-07-18
 
-[LLM serving latency benchmark](https://karnwong.me/posts/2024/10/llm-serving-latency-benchmark/) - 2024-10-09
+[Dataframe processing benchmarks (ภาษาไทย)](https://karnwong.me/posts/2025/07/dataframe-processing-benchmarks-th/) - 2025-07-08
 
-[When (not) to use Terraform](https://karnwong.me/posts/2024/10/when-not-to-use-terraform/) - 2024-10-05
+[Dataframe processing benchmarks](https://karnwong.me/posts/2025/07/dataframe-processing-benchmarks/) - 2025-07-08
 
-[AWS IAM credentials best practices](https://karnwong.me/posts/2024/10/aws-iam-credentials-best-practices/) - 2024-10-05
+[Simplify SSH (and HTTP & Postgres) access management with Warpgate](https://karnwong.me/posts/2025/06/simplify-ssh-and-postgres-http-access-management-with-warpgate/) - 2025-06-28
+
+[Using Nix for CI, but with a twist](https://karnwong.me/posts/2025/06/using-nix-for-ci-but-with-a-twist/) - 2025-06-20
 <!-- blog ends -->
 
 More on [karnwong.me](https://www.karnwong.me/posts/)
