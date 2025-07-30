@@ -57,26 +57,39 @@ More on [karnwong.me](https://www.karnwong.me/posts/)
 ## Languages
 
 ![bash](https://img.shields.io/badge/GNU%20Bash-4EAA25.svg?style=for-the-badge&logo=GNU-Bash&logoColor=white)
-![hcl](https://img.shields.io/badge/HCL-006BB6.svg?style=for-the-badge&logo=HCL&logoColor=white)
 ![golang](https://img.shields.io/badge/Go-00ADD8.svg?style=for-the-badge&logo=Go&logoColor=white)
 ![python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)
 ![rust](https://img.shields.io/badge/Rust-000000.svg?style=for-the-badge&logo=Rust&logoColor=white)
+![terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+
+![wakatime-stats-week](https://github-readme-stats-five-pearl-59.vercel.app/api/wakatime?username=@kahnwong&layout=compact&langs_count=8&hide=mason,git,xml,shell%20script,textmate,javascript,text,toml,json,makefile)
+
+![most-used-languages](https://github-readme-stats-five-pearl-59.vercel.app/api/top-langs/?username=kahnwong&hide_progress=false&layout=compact&hide=jupyter%20notebook%2Chtml,typescript,javascript)
 
 [//]: # (## Tools)
 
-## Cloud Native
+[//]: # (## Cloud Native)
 
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Helm](https://img.shields.io/badge/Helm-0F1689.svg?style=for-the-badge&logo=Helm&logoColor=white)
-![K3S](https://img.shields.io/badge/K3s-FFC61C.svg?style=for-the-badge&logo=K3s&logoColor=black)
-![Harbor](https://img.shields.io/badge/Harbor-60B932.svg?style=for-the-badge&logo=Harbor&logoColor=white)
+[//]: # ()
+[//]: # (![Docker]&#40;https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white&#41;)
 
-![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
+[//]: # (![Kubernetes]&#40;https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white&#41;)
 
-![MiniO](https://img.shields.io/badge/MinIO-C72E49.svg?style=for-the-badge&logo=MinIO&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2.svg?style=for-the-badge&logo=MLflow&logoColor=white)
+[//]: # (![Helm]&#40;https://img.shields.io/badge/Helm-0F1689.svg?style=for-the-badge&logo=Helm&logoColor=white&#41;)
+
+[//]: # (![K3S]&#40;https://img.shields.io/badge/K3s-FFC61C.svg?style=for-the-badge&logo=K3s&logoColor=black&#41;)
+
+[//]: # (![Harbor]&#40;https://img.shields.io/badge/Harbor-60B932.svg?style=for-the-badge&logo=Harbor&logoColor=white&#41;)
+
+[//]: # ()
+[//]: # (![Grafana]&#40;https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white&#41;)
+
+[//]: # (![Prometheus]&#40;https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white&#41;)
+
+[//]: # ()
+[//]: # (![MiniO]&#40;https://img.shields.io/badge/MinIO-C72E49.svg?style=for-the-badge&logo=MinIO&logoColor=white&#41;)
+
+[//]: # (![MLflow]&#40;https://img.shields.io/badge/MLflow-0194E2.svg?style=for-the-badge&logo=MLflow&logoColor=white&#41;)
 
 [//]: # (### DevOps)
 
@@ -108,14 +121,19 @@ More on [karnwong.me](https://www.karnwong.me/posts/)
 
 [//]: # (![DuckDB]&#40;https://img.shields.io/badge/DuckDB-FFF000.svg?style=for-the-badge&logo=DuckDB&logoColor=black&#41;)
 
-## Cloud
+[//]: # (## Cloud)
 
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Digital Ocean](https://img.shields.io/badge/DigitalOcean-0080FF.svg?style=for-the-badge&logo=DigitalOcean&logoColor=white)
+[//]: # ()
+[//]: # (![AWS]&#40;https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white&#41;)
 
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020.svg?style=for-the-badge&logo=Cloudflare&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000.svg?style=for-the-badge&logo=Vercel&logoColor=white)
+[//]: # (![Google Cloud]&#40;https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white&#41;)
+
+[//]: # (![Digital Ocean]&#40;https://img.shields.io/badge/DigitalOcean-0080FF.svg?style=for-the-badge&logo=DigitalOcean&logoColor=white&#41;)
+
+[//]: # ()
+[//]: # (![Cloudflare]&#40;https://img.shields.io/badge/Cloudflare-F38020.svg?style=for-the-badge&logo=Cloudflare&logoColor=white&#41;)
+
+[//]: # (![Vercel]&#40;https://img.shields.io/badge/Vercel-000000.svg?style=for-the-badge&logo=Vercel&logoColor=white&#41;)
 
 [//]: # (![AWS Cloudwatch]&#40;https://img.shields.io/badge/Amazon%20CloudWatch-FF4F8B.svg?style=for-the-badge&logo=Amazon-CloudWatch&logoColor=white&#41;)
 
@@ -139,7 +157,6 @@ More on [karnwong.me](https://www.karnwong.me/posts/)
 [//]: # (![BigQuery]&#40;https://img.shields.io/badge/Google%20BigQuery-669DF6.svg?style=for-the-badge&logo=Google-BigQuery&logoColor=white&#41;)
 
 [//]: # (![GCS]&#40;https://img.shields.io/badge/Google%20Cloud%20Storage-AECBFA.svg?style=for-the-badge&logo=Google-Cloud-Storage&logoColor=black&#41;)
-
 
 [//]: # (### Python)
 
@@ -165,12 +182,16 @@ More on [karnwong.me](https://www.karnwong.me/posts/)
 
 [//]: # (![DVC]&#40;https://img.shields.io/badge/DVC-13ADC7.svg?style=for-the-badge&logo=DVC&logoColor=white&#41;)
 
-### Geospatial
+[//]: # (### Geospatial)
 
-![H3](https://img.shields.io/badge/H3-1E54B7.svg?style=for-the-badge&logo=H3&logoColor=white)
-![QGIS](https://img.shields.io/badge/Qgis-589632.svg?style=for-the-badge&logo=Qgis&logoColor=white)
-![Folium](https://img.shields.io/badge/Folium-77B829.svg?style=for-the-badge&logo=Folium&logoColor=white)
-![Leaflet](https://img.shields.io/badge/Leaflet-199900.svg?style=for-the-badge&logo=Leaflet&logoColor=white)
+[//]: # ()
+[//]: # (![H3]&#40;https://img.shields.io/badge/H3-1E54B7.svg?style=for-the-badge&logo=H3&logoColor=white&#41;)
+
+[//]: # (![QGIS]&#40;https://img.shields.io/badge/Qgis-589632.svg?style=for-the-badge&logo=Qgis&logoColor=white&#41;)
+
+[//]: # (![Folium]&#40;https://img.shields.io/badge/Folium-77B829.svg?style=for-the-badge&logo=Folium&logoColor=white&#41;)
+
+[//]: # (![Leaflet]&#40;https://img.shields.io/badge/Leaflet-199900.svg?style=for-the-badge&logo=Leaflet&logoColor=white&#41;)
 
 [//]: # (### Misc)
 
@@ -185,10 +206,8 @@ More on [karnwong.me](https://www.karnwong.me/posts/)
 ![Nix](https://img.shields.io/badge/NIX-5277C3.svg?style=for-the-badge&logo=NixOS&logoColor=white)
 ![Flatpak](https://img.shields.io/badge/Flatpak-4A90D9.svg?style=for-the-badge&logo=Flatpak&logoColor=white)
 
-
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-
 
 ![Yubikey](https://img.shields.io/badge/Yubikey-84BD00.svg?style=for-the-badge&logo=Yubico&logoColor=white)
 ![Logitech G](https://img.shields.io/badge/Logitech%20G-00B8FC.svg?style=for-the-badge&logo=Logitech-G&logoColor=white)
