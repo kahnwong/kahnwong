@@ -39,6 +39,8 @@
 ## On my blog
 
 <!-- blog starts -->
+[AWS cost optimization tactics](https://karnwong.me/posts/2025/08/aws-cost-optimization-tactics/) - 2025-08-04
+
 [Terraform project structure](https://karnwong.me/posts/2025/07/terraform-project-structure/) - 2025-07-22
 
 [The true cost of deploying on EC2](https://karnwong.me/posts/2025/07/the-true-cost-of-deploying-on-ec2/) - 2025-07-18
@@ -48,8 +50,6 @@
 [Dataframe processing benchmarks](https://karnwong.me/posts/2025/07/dataframe-processing-benchmarks/) - 2025-07-08
 
 [Simplify SSH (and HTTP & Postgres) access management with Warpgate](https://karnwong.me/posts/2025/06/simplify-ssh-and-postgres-http-access-management-with-warpgate/) - 2025-06-28
-
-[Using Nix for CI, but with a twist](https://karnwong.me/posts/2025/06/using-nix-for-ci-but-with-a-twist/) - 2025-06-20
 <!-- blog ends -->
 
 More on [karnwong.me](https://www.karnwong.me/posts/)
