@@ -39,6 +39,8 @@
 ## On my blog
 
 <!-- blog starts -->
+[Spatial join performance](https://karnwong.me/posts/2025/08/spatial-join-performance/) - 2025-08-30
+
 [Static lib linking in Go program](https://karnwong.me/posts/2025/08/static-lib-linking-in-go-program/) - 2025-08-26
 
 [AWS cost optimization tactics](https://karnwong.me/posts/2025/08/aws-cost-optimization-tactics/) - 2025-08-04
@@ -48,8 +50,6 @@
 [The true cost of deploying on EC2](https://karnwong.me/posts/2025/07/the-true-cost-of-deploying-on-ec2/) - 2025-07-18
 
 [Dataframe processing benchmarks (ภาษาไทย)](https://karnwong.me/posts/2025/07/dataframe-processing-benchmarks-th/) - 2025-07-08
-
-[Dataframe processing benchmarks](https://karnwong.me/posts/2025/07/dataframe-processing-benchmarks/) - 2025-07-08
 <!-- blog ends -->
 
 More on [karnwong.me](https://www.karnwong.me/posts/)
