@@ -224,7 +224,7 @@ More on [karnwong.me](https://www.karnwong.me/posts/)
 <table>
   <thead>
     <tr>
-      <th>🔀 Random Albums</th>
+      <th>🔀 Random Album</th>
     </tr>
   </thead>
   <tbody>
@@ -240,56 +240,5 @@ More on [karnwong.me](https://www.karnwong.me/posts/)
       </td>
     </tr>
     <tr></tr>
-    <!-- hide gray row -->
-    <tr>
-      <td>
-        <a
-          href="https://subsonic-widgets.karnwong.me/random-album-2.svg"
-          ><img
-            src="https://subsonic-widgets.karnwong.me/random-album-2.svg"
-            width="540"
-            height="64"
-        /></a>
-      </td>
-    </tr>
-    <tr></tr>
-    <!-- hide gray row -->
-    <tr>
-      <td>
-        <a
-          href="https://subsonic-widgets.karnwong.me/random-album-3.svg"
-          ><img
-            src="https://subsonic-widgets.karnwong.me/random-album-3.svg"
-            width="540"
-            height="64"
-        /></a>
-      </td>
-    </tr>
-    <tr></tr>
-    <!-- hide gray row -->
-    <tr>
-      <td>
-        <a
-          href="https://subsonic-widgets.karnwong.me/random-album-4.svg"
-          ><img
-            src="https://subsonic-widgets.karnwong.me/random-album-4.svg"
-            width="540"
-            height="64"
-        /></a>
-      </td>
-    </tr>
-    <tr></tr>
-    <!-- hide gray row -->
-    <tr>
-      <td>
-        <a
-          href="https://subsonic-widgets.karnwong.me/random-album-5.svg"
-          ><img
-            src="https://subsonic-widgets.karnwong.me/random-album-5.svg"
-            width="540"
-            height="64"
-        /></a>
-      </td>
-    </tr>
   </tbody>
 </table>
