@@ -221,24 +221,6 @@ More on [karnwong.me](https://www.karnwong.me/posts/)
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <a href="https://subsonic-widgets.karnwong.me/now-playing.svg"><img src="https://subsonic-widgets.karnwong.me/now-playing.svg" width="540" height="64"></a> |
 
-<table>
-  <thead>
-    <tr>
-      <th>🔀 Random Album</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>
-        <a
-          href="https://subsonic-widgets.karnwong.me/random-album-1.svg"
-          ><img
-            src="https://subsonic-widgets.karnwong.me/random-album-1.svg"
-            width="540"
-            height="64"
-        /></a>
-      </td>
-    </tr>
-    <tr></tr>
-  </tbody>
-</table>
+| 🎵 Random Album                                                                                                                                                                                                                                |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <a href="https://subsonic-widgets.karnwong.me/random-album-1.svg"><img src="https://subsonic-widgets.karnwong.me/random-album-1.svg" width="540" height="64"></a> |
