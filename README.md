@@ -1,55 +1,22 @@
-[//]: # (<h1 align="center"><code>Hello, I'm Karn! 👋</code></h1>)
-[//]: # ()
-[//]: # (<p align="center">)
-
-[//]: # ()
-[//]: # ([//]: # &#40;<a href="https://github.com/kahnwong"><img src="https://img.shields.io/badge/-kahnwong-3a3a3a?style=flat&logo=GitHub&logoColor=white" /></a>&#41;)
-[//]: # ([//]: # &#40;<a href="https://bsky.app/profile/karnwong.me"><img src="https://img.shields.io/badge/@karnwong.me-0285FF.svg?style=flat&logo=Bluesky&logoColor=white" /></a>&#41;)
-[//]: # ()
-[//]: # ([//]: # &#40;<a href="https://www.discord.com"><img src="https://img.shields.io/badge/-kahnwong%237593-5865F2?style=flat&logo=discord&logoColor=white" /></a>&#41;)
-[//]: # ()
-[//]: # ([//]: # &#40;<a href="https://www.linkedin.com/in/karnsiree-w-7b535b202/"><img src="https://img.shields.io/badge/-karnsiree&ndash;w&ndash;7b535b202-0072b1?style=flat&logo=Linkedin&logoColor=white" /></a>&#41;)
-[//]: # (</p>)
-
-[//]: # ()
-[//]: # (<p align="center">)
-
-[//]: # (<a href="https://buymeacoffee.com/kahnwong"><img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00.svg?style=for-the-badge&logo=Buy-Me-A-Coffee&logoColor=black" /></a>)
-
-[//]: # (</p>)
-
-[//]: # ()
-[//]: # (<p align="center">)
-
-[//]: # (<a href="mailto:karn@karnwong.me"><code>karn at karnwong dot me</code></a>)
-
-[//]: # (</p>)
-
-[//]: # (## Active communities)
-
-[//]: # ()
-[//]: # (- [Data Engineering Discord]&#40;https://invite.gg/dataengineering&#41; &#40;English&#41;)
-
-[//]: # (- [Data Science Discord]&#40;https://discord.com/invite/UYNaemm&#41; &#40;English&#41;)
-
-[//]: # (- [DevOps, SRE, & Infrastructure Discord]&#40;https://discord.com/invite/VEEnHkPzY6&#41; &#40;English&#41;)
-
-[//]: # (- [Data Engineer Cafe]&#40;https://discuss.dataengineercafe.io&#41; &#40;Thai&#41;)
-
-## On my blog
+## On my Blog
 
 <!-- blog starts -->
-[GCP's service account credentials can be a security risk. Here's how to mitigate them.](https://karnwong.me/posts/2024/07/gcps-service-account-credentials-can-be-a-security-risk-heres-how-to-mitigate-them/) - 2024-07-14
+[GCP's service account credentials can be a security risk. Here's how to mitigate them.](https://karnwong.me/posts/2024/07/gcps-service-account-credentials-can-be-a-security-risk-heres-how-to-mitigate-them/) -
+2024-07-14
 
-[Thoughts on summarization service system design](https://karnwong.me/posts/2024/06/thoughts-on-summarization-service-system-design/) - 2024-06-09
+[Thoughts on summarization service system design](https://karnwong.me/posts/2024/06/thoughts-on-summarization-service-system-design/) -
+2024-06-09
 
 [Faster spark workloads with comet](https://karnwong.me/posts/2024/04/faster-spark-workloads-with-comet/) - 2024-04-07
 
-[Slim down python docker image size with poetry and pip](https://karnwong.me/posts/2024/04/slim-down-python-docker-image-size-with-poetry-and-pip/) - 2024-04-07
+[Slim down python docker image size with poetry and pip](https://karnwong.me/posts/2024/04/slim-down-python-docker-image-size-with-poetry-and-pip/) -
+2024-04-07
 
-[Dataframe write performance to Postgres](https://karnwong.me/posts/2024/03/dataframe-write-performance-to-postgres/) - 2024-03-17
+[Dataframe write performance to Postgres](https://karnwong.me/posts/2024/03/dataframe-write-performance-to-postgres/) -
+2024-03-17
 
-[How to connect to Cloud SQL from Cloud Run (no, you don't need a VPC)](https://karnwong.me/posts/2024/02/how-to-connect-to-cloud-sql-from-cloud-run/) - 2024-02-10
+[How to connect to Cloud SQL from Cloud Run (no, you don't need a VPC)](https://karnwong.me/posts/2024/02/how-to-connect-to-cloud-sql-from-cloud-run/) -
+2024-02-10
 <!-- blog ends -->
 
 More on [karnwong.me](https://www.karnwong.me/posts/)
@@ -68,138 +35,6 @@ More on [karnwong.me](https://www.karnwong.me/posts/)
 
 ![most-used-languages](https://github-readme-stats-five-pearl-59.vercel.app/api/top-langs/?username=kahnwong&hide_progress=false&layout=compact&hide=jupyter%20notebook%2Chtml,typescript,javascript)
 
-[//]: # (## Tools)
-
-[//]: # (## Cloud Native)
-
-[//]: # ()
-[//]: # (![Docker]&#40;https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white&#41;)
-
-[//]: # (![Kubernetes]&#40;https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white&#41;)
-
-[//]: # (![Helm]&#40;https://img.shields.io/badge/Helm-0F1689.svg?style=for-the-badge&logo=Helm&logoColor=white&#41;)
-
-[//]: # (![K3S]&#40;https://img.shields.io/badge/K3s-FFC61C.svg?style=for-the-badge&logo=K3s&logoColor=black&#41;)
-
-[//]: # (![Harbor]&#40;https://img.shields.io/badge/Harbor-60B932.svg?style=for-the-badge&logo=Harbor&logoColor=white&#41;)
-
-[//]: # ()
-[//]: # (![Grafana]&#40;https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white&#41;)
-
-[//]: # (![Prometheus]&#40;https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white&#41;)
-
-[//]: # ()
-[//]: # (![MiniO]&#40;https://img.shields.io/badge/MinIO-C72E49.svg?style=for-the-badge&logo=MinIO&logoColor=white&#41;)
-
-[//]: # (![MLflow]&#40;https://img.shields.io/badge/MLflow-0194E2.svg?style=for-the-badge&logo=MLflow&logoColor=white&#41;)
-
-[//]: # (### DevOps)
-
-[//]: # ()
-[//]: # (![Caddy]&#40;https://img.shields.io/badge/Caddy-1F88C0.svg?style=for-the-badge&logo=Caddy&logoColor=white&#41;)
-
-[//]: # (![Terraform]&#40;https://img.shields.io/badge/Terraform-7B42BC.svg?style=for-the-badge&logo=Terraform&logoColor=white&#41;)
-
-[//]: # (![GitHub Actions]&#40;https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white&#41;)
-
-[//]: # (![Proxmox]&#40;https://img.shields.io/badge/Proxmox-E57000.svg?style=for-the-badge&logo=proxmox&logoColor=white&#41;)
-
-[//]: # ()
-[//]: # (![Authentik]&#40;https://img.shields.io/badge/Authentik-FD4B2D.svg?style=for-the-badge&logo=Authentik&logoColor=white&#41;)
-
-[//]: # ()
-[//]: # (![Infracost]&#40;https://img.shields.io/badge/Infracost-DB44B8.svg?style=for-the-badge&logo=Infracost&logoColor=white&#41;)
-
-[//]: # (![NewRelic]&#40;https://img.shields.io/badge/New%20Relic-1CE783.svg?style=for-the-badge&logo=New-Relic&logoColor=white&#41;)
-
-[//]: # (### Databases)
-
-[//]: # ()
-[//]: # (![Postgres]&#40;https://img.shields.io/badge/postgres-%23336791.svg?&style=for-the-badge&logo=postgresql&logoColor=white&#41;)
-
-[//]: # (![MongoDB]&#40;https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=MongoDB&logoColor=white&#41;)
-
-[//]: # (![BigQuery]&#40;https://img.shields.io/badge/BigQuery-%234285F4?style=for-the-badge&logoColor=white&logo=google-cloud&#41;)
-
-[//]: # (![DuckDB]&#40;https://img.shields.io/badge/DuckDB-FFF000.svg?style=for-the-badge&logo=DuckDB&logoColor=black&#41;)
-
-[//]: # (## Cloud)
-
-[//]: # ()
-[//]: # (![AWS]&#40;https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white&#41;)
-
-[//]: # (![Google Cloud]&#40;https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white&#41;)
-
-[//]: # (![Digital Ocean]&#40;https://img.shields.io/badge/DigitalOcean-0080FF.svg?style=for-the-badge&logo=DigitalOcean&logoColor=white&#41;)
-
-[//]: # ()
-[//]: # (![Cloudflare]&#40;https://img.shields.io/badge/Cloudflare-F38020.svg?style=for-the-badge&logo=Cloudflare&logoColor=white&#41;)
-
-[//]: # (![Vercel]&#40;https://img.shields.io/badge/Vercel-000000.svg?style=for-the-badge&logo=Vercel&logoColor=white&#41;)
-
-[//]: # (![AWS Cloudwatch]&#40;https://img.shields.io/badge/Amazon%20CloudWatch-FF4F8B.svg?style=for-the-badge&logo=Amazon-CloudWatch&logoColor=white&#41;)
-
-[//]: # (![AWS EC2]&#40;https://img.shields.io/badge/Amazon%20EC2-FF9900.svg?style=for-the-badge&logo=Amazon-EC2&logoColor=white&#41;)
-
-[//]: # (![AWS ECS]&#40;https://img.shields.io/badge/Amazon%20ECS-FF9900.svg?style=for-the-badge&logo=Amazon-ECS&logoColor=white&#41;)
-
-[//]: # (![AWS RDS]&#40;https://img.shields.io/badge/Amazon%20RDS-527FFF.svg?style=for-the-badge&logo=Amazon-RDS&logoColor=white&#41;)
-
-[//]: # (![AWS S3]&#40;https://img.shields.io/badge/Amazon%20S3-569A31.svg?style=for-the-badge&logo=Amazon-S3&logoColor=white&#41;)
-
-[//]: # (![AWS ELB]&#40;https://img.shields.io/badge/AWS%20Elastic%20Load%20Balancing-8C4FFF.svg?style=for-the-badge&logo=AWS-Elastic-Load-Balancing&logoColor=white&#41;)
-
-[//]: # (![AWS Fargate]&#40;https://img.shields.io/badge/AWS%20Fargate-FF9900.svg?style=for-the-badge&logo=AWS-Fargate&logoColor=white&#41;)
-
-[//]: # (![AWS Lambda]&#40;https://img.shields.io/badge/AWS%20Lambda-FF9900.svg?style=for-the-badge&logo=AWS-Lambda&logoColor=white&#41;)
-
-[//]: # (![AWS Secrets Manager]&#40;https://img.shields.io/badge/AWS%20Secrets%20Manager-DD344C.svg?style=for-the-badge&logo=AWS-Secrets-Manager&logoColor=white&#41;)
-
-[//]: # ()
-[//]: # (![BigQuery]&#40;https://img.shields.io/badge/Google%20BigQuery-669DF6.svg?style=for-the-badge&logo=Google-BigQuery&logoColor=white&#41;)
-
-[//]: # (![GCS]&#40;https://img.shields.io/badge/Google%20Cloud%20Storage-AECBFA.svg?style=for-the-badge&logo=Google-Cloud-Storage&logoColor=black&#41;)
-
-[//]: # (### Python)
-
-[//]: # (![FastAPI]&#40;https://img.shields.io/badge/FastAPI-009688.svg?style=for-the-badge&logo=FastAPI&logoColor=white&#41;)
-
-[//]: # (![Pydantic]&#40;https://img.shields.io/badge/Pydantic-E92063.svg?style=for-the-badge&logo=Pydantic&logoColor=white&#41;)
-
-[//]: # (![Pytest]&#40;https://img.shields.io/badge/Pytest-0A9EDC.svg?style=for-the-badge&logo=Pytest&logoColor=white&#41;)
-
-[//]: # (### Data / ML)
-
-[//]: # ()
-[//]: # (![Apache Spark]&#40;https://img.shields.io/badge/Apache%20Spark-E25A1C.svg?style=for-the-badge&logo=Apache-Spark&logoColor=white&#41;)
-
-[//]: # (![Apache Parquet]&#40;https://img.shields.io/badge/Apache%20Parquet-50ABF1.svg?style=for-the-badge&logo=Apache-Parquet&logoColor=white&#41;)
-
-[//]: # (![Polars]&#40;https://img.shields.io/badge/Polars-CD792C.svg?style=for-the-badge&logo=Polars&logoColor=white&#41;)
-
-[//]: # ()
-[//]: # (![Ray]&#40;https://img.shields.io/badge/Ray-028CF0.svg?style=for-the-badge&logo=Ray&logoColor=white&#41;)
-
-[//]: # (![scikit-learn]&#40;https://img.shields.io/badge/scikitlearn-F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white&#41;)
-
-[//]: # (![DVC]&#40;https://img.shields.io/badge/DVC-13ADC7.svg?style=for-the-badge&logo=DVC&logoColor=white&#41;)
-
-[//]: # (### Geospatial)
-
-[//]: # ()
-[//]: # (![H3]&#40;https://img.shields.io/badge/H3-1E54B7.svg?style=for-the-badge&logo=H3&logoColor=white&#41;)
-
-[//]: # (![QGIS]&#40;https://img.shields.io/badge/Qgis-589632.svg?style=for-the-badge&logo=Qgis&logoColor=white&#41;)
-
-[//]: # (![Folium]&#40;https://img.shields.io/badge/Folium-77B829.svg?style=for-the-badge&logo=Folium&logoColor=white&#41;)
-
-[//]: # (![Leaflet]&#40;https://img.shields.io/badge/Leaflet-199900.svg?style=for-the-badge&logo=Leaflet&logoColor=white&#41;)
-
-[//]: # (### Misc)
-
-[//]: # ()
-[//]: # (![ffmpeg]&#40;https://img.shields.io/badge/FFmpeg-007808.svg?style=for-the-badge&logo=FFmpeg&logoColor=white&#41;)
-
 ## Work Setup
 
 ![IntelliJ](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=for-the-badge&logo=IntelliJ-IDEA&logoColor=white)
@@ -208,8 +43,8 @@ More on [karnwong.me](https://www.karnwong.me/posts/)
 ![Nix](https://img.shields.io/badge/NIX-5277C3.svg?style=for-the-badge&logo=NixOS&logoColor=white)
 ![Flatpak](https://img.shields.io/badge/Flatpak-4A90D9.svg?style=for-the-badge&logo=Flatpak&logoColor=white)
 
-![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 
 ![Yubikey](https://img.shields.io/badge/Yubikey-84BD00.svg?style=for-the-badge&logo=Yubico&logoColor=white)
 ![Logitech G](https://img.shields.io/badge/Logitech%20G-00B8FC.svg?style=for-the-badge&logo=Logitech-G&logoColor=white)
@@ -217,10 +52,10 @@ More on [karnwong.me](https://www.karnwong.me/posts/)
 
 ## Music
 
-| 🎵 Recently Played                                                                                                                                                                                                                                |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 🎵 Recently Played                                                                                                                                          |
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | <a href="https://subsonic-widgets.karnwong.me/now-playing.svg"><img src="https://subsonic-widgets.karnwong.me/now-playing.svg" width="540" height="64"></a> |
 
-| 🎵 Random Album                                                                                                                                                                                                                                |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 🎵 Random Album                                                                                                                                                   |
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | <a href="https://subsonic-widgets.karnwong.me/random-album-1.svg"><img src="https://subsonic-widgets.karnwong.me/random-album-1.svg" width="540" height="64"></a> |
