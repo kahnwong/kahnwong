@@ -23,6 +23,11 @@ More on [karnwong.me](https://www.karnwong.me/posts/)
 
 </td><td valign="top" width="33%">
 
+## Stats
+
+![wakatime-stats-week](https://github-readme-stats-five-pearl-59.vercel.app/api/wakatime?username=@kahnwong&layout=compact&langs_count=8&hide=mason,git,xml,shell%20script,textmate,javascript,text,toml,json,makefile)
+![most-used-languages](https://github-readme-stats-five-pearl-59.vercel.app/api/top-langs/?username=kahnwong&hide_progress=false&layout=compact&hide=jupyter%20notebook%2Chtml,typescript,javascript)
+
 ## Languages
 
 ![bash](https://img.shields.io/badge/GNU%20Bash-4EAA25.svg?style=for-the-badge&logo=GNU-Bash&logoColor=white)
@@ -31,9 +36,16 @@ More on [karnwong.me](https://www.karnwong.me/posts/)
 ![rust](https://img.shields.io/badge/Rust-000000.svg?style=for-the-badge&logo=Rust&logoColor=white)
 ![terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 
-![wakatime-stats-week](https://github-readme-stats-five-pearl-59.vercel.app/api/wakatime?username=@kahnwong&layout=compact&langs_count=8&hide=mason,git,xml,shell%20script,textmate,javascript,text,toml,json,makefile)
+## Platforms
 
-![most-used-languages](https://github-readme-stats-five-pearl-59.vercel.app/api/top-langs/?username=kahnwong&hide_progress=false&layout=compact&hide=jupyter%20notebook%2Chtml,typescript,javascript)
+![Kubernetes Badge](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff&style=for-the-badge)
+
+![AWS Badge](https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900?logo=aws&logoColor=fff&style=for-the-badge)
+![Google Cloud Badge](https://img.shields.io/badge/Google%20Cloud-4285F4?logo=googlecloud&logoColor=fff&style=for-the-badge)
+![Microsoft Azure](https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white&style=for-the-badge)
+
+![Cloudflare Badge](https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=fff&style=for-the-badge)
+![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white&style=for-the-badge)
 
 ## Work Setup
 
@@ -46,6 +58,7 @@ More on [karnwong.me](https://www.karnwong.me/posts/)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 
+![ThinkPad Badge](https://img.shields.io/badge/ThinkPad-EE2624?logo=thinkpad&logoColor=fff&style=for-the-badge)
 ![Yubikey](https://img.shields.io/badge/Yubikey-84BD00.svg?style=for-the-badge&logo=Yubico&logoColor=white)
 ![Logitech G](https://img.shields.io/badge/Logitech%20G-00B8FC.svg?style=for-the-badge&logo=Logitech-G&logoColor=white)
 ![Sennheiser](https://img.shields.io/badge/Sennheiser-000000.svg?style=for-the-badge&logo=Sennheiser&logoColor=white)
