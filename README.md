@@ -26,6 +26,7 @@ More on [karnwong.me](https://www.karnwong.me/posts/)
 ## Stats
 
 ![wakatime-stats-week](https://github-readme-stats-five-pearl-59.vercel.app/api/wakatime?username=@kahnwong&layout=compact&langs_count=8&hide=mason,git,xml,shell%20script,textmate,javascript,text,toml,json,makefile)
+
 ![most-used-languages](https://github-readme-stats-five-pearl-59.vercel.app/api/top-langs/?username=kahnwong&hide_progress=false&layout=compact&hide=jupyter%20notebook%2Chtml,typescript,javascript)
 
 ## Languages
