@@ -1,22 +1,17 @@
 ## On my Blog
 
 <!-- blog starts -->
-[GCP's service account credentials can be a security risk. Here's how to mitigate them.](https://karnwong.me/posts/2024/07/gcps-service-account-credentials-can-be-a-security-risk-heres-how-to-mitigate-them/) -
-2024-07-14
+[Multi-machine work setup](https://karnwong.me/posts/2025/09/multi-machine-work-setup/) - 2025-09-11
 
-[Thoughts on summarization service system design](https://karnwong.me/posts/2024/06/thoughts-on-summarization-service-system-design/) -
-2024-06-09
+[Spatial join performance](https://karnwong.me/posts/2025/08/spatial-join-performance/) - 2025-08-30
 
-[Faster spark workloads with comet](https://karnwong.me/posts/2024/04/faster-spark-workloads-with-comet/) - 2024-04-07
+[Static lib linking in Go program](https://karnwong.me/posts/2025/08/static-lib-linking-in-go-program/) - 2025-08-26
 
-[Slim down python docker image size with poetry and pip](https://karnwong.me/posts/2024/04/slim-down-python-docker-image-size-with-poetry-and-pip/) -
-2024-04-07
+[AWS cost optimization tactics](https://karnwong.me/posts/2025/08/aws-cost-optimization-tactics/) - 2025-08-04
 
-[Dataframe write performance to Postgres](https://karnwong.me/posts/2024/03/dataframe-write-performance-to-postgres/) -
-2024-03-17
+[Terraform project structure](https://karnwong.me/posts/2025/07/terraform-project-structure/) - 2025-07-22
 
-[How to connect to Cloud SQL from Cloud Run (no, you don't need a VPC)](https://karnwong.me/posts/2024/02/how-to-connect-to-cloud-sql-from-cloud-run/) -
-2024-02-10
+[The true cost of deploying on EC2](https://karnwong.me/posts/2025/07/the-true-cost-of-deploying-on-ec2/) - 2025-07-18
 <!-- blog ends -->
 
 More on [karnwong.me](https://www.karnwong.me/posts/)
