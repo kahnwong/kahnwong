@@ -1,6 +1,8 @@
 ## On my Blog
 
 <!-- blog starts -->
+[ONNX Multi-platform benchmark](https://karnwong.me/posts/2026/01/onnx-multi-platform-benchmark/) - 2026-01-07
+
 [Multi-machine work setup](https://karnwong.me/posts/2025/09/multi-machine-work-setup/) - 2025-09-11
 
 [Spatial join performance](https://karnwong.me/posts/2025/08/spatial-join-performance/) - 2025-08-30
@@ -10,8 +12,6 @@
 [AWS cost optimization tactics](https://karnwong.me/posts/2025/08/aws-cost-optimization-tactics/) - 2025-08-04
 
 [Terraform project structure](https://karnwong.me/posts/2025/07/terraform-project-structure/) - 2025-07-22
-
-[The true cost of deploying on EC2](https://karnwong.me/posts/2025/07/the-true-cost-of-deploying-on-ec2/) - 2025-07-18
 <!-- blog ends -->
 
 More on [karnwong.me](https://www.karnwong.me/posts/)
