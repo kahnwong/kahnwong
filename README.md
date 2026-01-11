@@ -50,11 +50,11 @@ More on [karnwong.me](https://www.karnwong.me/posts/)
 
 ![Nix](https://img.shields.io/badge/NIX-5277C3.svg?style=for-the-badge&logo=NixOS&logoColor=white)
 ![Flatpak](https://img.shields.io/badge/Flatpak-4A90D9.svg?style=for-the-badge&logo=Flatpak&logoColor=white)
-
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 
+![Ryzen](https://img.shields.io/badge/Ryzen-ED1C24.svg?style=for-the-badge&logo=AMD&logoColor=white)
 ![ThinkPad Badge](https://img.shields.io/badge/ThinkPad-EE2624?logo=thinkpad&logoColor=fff&style=for-the-badge)
+
 ![Yubikey](https://img.shields.io/badge/Yubikey-84BD00.svg?style=for-the-badge&logo=Yubico&logoColor=white)
 ![Logitech G](https://img.shields.io/badge/Logitech%20G-00B8FC.svg?style=for-the-badge&logo=Logitech-G&logoColor=white)
 ![Sennheiser](https://img.shields.io/badge/Sennheiser-000000.svg?style=for-the-badge&logo=Sennheiser&logoColor=white)
