@@ -1,7 +1,7 @@
 ## On my Blog
 
 <!-- blog starts -->
-[ONNX Multi-platform benchmark](https://karnwong.me/posts/2026/01/onnx-multi-platform-benchmark/) - 2026-01-07
+[ONNX multi-platform benchmark](https://karnwong.me/posts/2026/01/onnx-multi-platform-benchmark/) - 2026-01-07
 
 [Multi-machine work setup](https://karnwong.me/posts/2025/09/multi-machine-work-setup/) - 2025-09-11
 
