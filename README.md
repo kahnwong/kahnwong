@@ -1,6 +1,8 @@
 ## On my Blog
 
 <!-- blog starts -->
+[Reduce workload attack surface with distroless image](https://karnwong.me/posts/2026/02/reduce-workload-attack-surface-with-distroless-image/) - 2026-02-03
+
 [ONNX multi-platform benchmark](https://karnwong.me/posts/2026/01/onnx-multi-platform-benchmark/) - 2026-01-07
 
 [Multi-machine work setup](https://karnwong.me/posts/2025/09/multi-machine-work-setup/) - 2025-09-11
@@ -10,8 +12,6 @@
 [Static lib linking in Go program](https://karnwong.me/posts/2025/08/static-lib-linking-in-go-program/) - 2025-08-26
 
 [AWS cost optimization tactics](https://karnwong.me/posts/2025/08/aws-cost-optimization-tactics/) - 2025-08-04
-
-[Terraform project structure](https://karnwong.me/posts/2025/07/terraform-project-structure/) - 2025-07-22
 <!-- blog ends -->
 
 More on [karnwong.me](https://www.karnwong.me/posts/)
