@@ -1,6 +1,8 @@
 ## On my Blog
 
 <!-- blog starts -->
+[Multi-account git setup](https://karnwong.me/posts/2026/03/multi-account-git-setup/) - 2026-03-01
+
 [Book Highlights - Of Monsters and Mainframes by Barbara Truelove](https://karnwong.me/posts/2026/02/book-highlights---of-monsters-and-mainframes-by-barbara-truelove/) - 2026-02-09
 
 [Reduce workload attack surface with distroless image](https://karnwong.me/posts/2026/02/reduce-workload-attack-surface-with-distroless-image/) - 2026-02-03
@@ -10,8 +12,6 @@
 [Multi-machine work setup](https://karnwong.me/posts/2025/09/multi-machine-work-setup/) - 2025-09-11
 
 [Spatial join performance](https://karnwong.me/posts/2025/08/spatial-join-performance/) - 2025-08-30
-
-[Static lib linking in Go program](https://karnwong.me/posts/2025/08/static-lib-linking-in-go-program/) - 2025-08-26
 <!-- blog ends -->
 
 More on [karnwong.me](https://www.karnwong.me/posts/)
