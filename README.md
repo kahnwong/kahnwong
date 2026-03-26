@@ -1,6 +1,8 @@
 ## On my Blog
 
 <!-- blog starts -->
+[Classical models vs neural networks for tabular data](https://karnwong.me/posts/2026/03/classical-models-vs-neural-networks-for-tabular-data/) - 2026-03-26
+
 [Multi-account git setup](https://karnwong.me/posts/2026/03/multi-account-git-setup/) - 2026-03-01
 
 [Book Highlights - Of Monsters and Mainframes by Barbara Truelove](https://karnwong.me/posts/2026/02/book-highlights---of-monsters-and-mainframes-by-barbara-truelove/) - 2026-02-09
@@ -10,8 +12,6 @@
 [ONNX multi-platform benchmark](https://karnwong.me/posts/2026/01/onnx-multi-platform-benchmark/) - 2026-01-07
 
 [Multi-machine work setup](https://karnwong.me/posts/2025/09/multi-machine-work-setup/) - 2025-09-11
-
-[Spatial join performance](https://karnwong.me/posts/2025/08/spatial-join-performance/) - 2025-08-30
 <!-- blog ends -->
 
 More on [karnwong.me](https://www.karnwong.me/posts/)
