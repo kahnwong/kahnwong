@@ -1,6 +1,8 @@
 ## On my Blog
 
 <!-- blog starts -->
+[Observability with eBPF and OTel](https://karnwong.me/posts/2026/03/observability-with-ebpf-and-otel/) - 2026-03-27
+
 [Classical models vs neural networks for tabular data](https://karnwong.me/posts/2026/03/classical-models-vs-neural-networks-for-tabular-data/) - 2026-03-26
 
 [Multi-account git setup](https://karnwong.me/posts/2026/03/multi-account-git-setup/) - 2026-03-01
@@ -10,8 +12,6 @@
 [Reduce workload attack surface with distroless image](https://karnwong.me/posts/2026/02/reduce-workload-attack-surface-with-distroless-image/) - 2026-02-03
 
 [ONNX multi-platform benchmark](https://karnwong.me/posts/2026/01/onnx-multi-platform-benchmark/) - 2026-01-07
-
-[Multi-machine work setup](https://karnwong.me/posts/2025/09/multi-machine-work-setup/) - 2025-09-11
 <!-- blog ends -->
 
 More on [karnwong.me](https://www.karnwong.me/posts/)
