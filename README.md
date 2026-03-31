@@ -1,6 +1,8 @@
 ## On my Blog
 
 <!-- blog starts -->
+[Development environment setup with flox and direnv](https://karnwong.me/posts/2026/03/development-environment-setup-with-flox-and-direnv/) - 2026-03-31
+
 [Observability with eBPF and OTel](https://karnwong.me/posts/2026/03/observability-with-ebpf-and-otel/) - 2026-03-27
 
 [Classical models vs neural networks for tabular data](https://karnwong.me/posts/2026/03/classical-models-vs-neural-networks-for-tabular-data/) - 2026-03-26
@@ -10,8 +12,6 @@
 [Book Highlights - Of Monsters and Mainframes by Barbara Truelove](https://karnwong.me/posts/2026/02/book-highlights---of-monsters-and-mainframes-by-barbara-truelove/) - 2026-02-09
 
 [Reduce workload attack surface with distroless image](https://karnwong.me/posts/2026/02/reduce-workload-attack-surface-with-distroless-image/) - 2026-02-03
-
-[ONNX multi-platform benchmark](https://karnwong.me/posts/2026/01/onnx-multi-platform-benchmark/) - 2026-01-07
 <!-- blog ends -->
 
 More on [karnwong.me](https://www.karnwong.me/posts/)
