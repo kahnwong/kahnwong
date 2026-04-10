@@ -1,6 +1,8 @@
 ## On my Blog
 
 <!-- blog starts -->
+[LLM tracing with MLflow AI Gateway](https://karnwong.me/posts/2026/04/llm-tracing-with-mlflow-ai-gateway/) - 2026-04-10
+
 [Garmin development setup on Linux](https://karnwong.me/posts/2026/04/garmin-development-setup-on-linux/) - 2026-04-06
 
 [Development environment setup with flox and direnv](https://karnwong.me/posts/2026/03/development-environment-setup-with-flox-and-direnv/) - 2026-03-31
@@ -10,8 +12,6 @@
 [Classical models vs neural networks for tabular data](https://karnwong.me/posts/2026/03/classical-models-vs-neural-networks-for-tabular-data/) - 2026-03-26
 
 [Multi-account git setup](https://karnwong.me/posts/2026/03/multi-account-git-setup/) - 2026-03-01
-
-[Book Highlights - Of Monsters and Mainframes by Barbara Truelove](https://karnwong.me/posts/2026/02/book-highlights---of-monsters-and-mainframes-by-barbara-truelove/) - 2026-02-09
 <!-- blog ends -->
 
 More on [karnwong.me](https://www.karnwong.me/posts/)
