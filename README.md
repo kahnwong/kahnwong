@@ -1,7 +1,7 @@
 ## On my Blog
 
 <!-- blog starts -->
-[Book Highlights - Babel by Gaston Dorren](https://karnwong.me/posts/2026/04/book-highlights---babel-by-gaston-dorrenbook-highlights---babel-by-gaston-dorren/) - 2026-04-22
+[Book Highlights - Babel by Gaston Dorren](https://karnwong.me/posts/2026/04/book-highlights---babel-by-gaston-dorren/) - 2026-04-22
 
 [LLM tracing with MLflow AI Gateway](https://karnwong.me/posts/2026/04/llm-tracing-with-mlflow-ai-gateway/) - 2026-04-10
 
