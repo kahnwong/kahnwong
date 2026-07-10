@@ -1,6 +1,8 @@
 ## On my Blog
 
 <!-- blog starts -->
+[What are (agent) sandboxes useful for?](https://karnwong.me/posts/2026/07/what-are-agent-sandboxes-useful-for/) - 2026-07-10
+
 [Make logging in easier with passkeys](https://karnwong.me/posts/2026/07/make-logging-in-easier-with-passkeys/) - 2026-07-09
 
 [Book Highlights - Babel by Gaston Dorren](https://karnwong.me/posts/2026/04/book-highlights---babel-by-gaston-dorren/) - 2026-04-22
@@ -10,8 +12,6 @@
 [Garmin development setup on Linux](https://karnwong.me/posts/2026/04/garmin-development-setup-on-linux/) - 2026-04-06
 
 [Development environment setup with flox and direnv](https://karnwong.me/posts/2026/03/development-environment-setup-with-flox-and-direnv/) - 2026-03-31
-
-[Observability with eBPF and OTel](https://karnwong.me/posts/2026/03/observability-with-ebpf-and-otel/) - 2026-03-27
 <!-- blog ends -->
 
 More on [karnwong.me](https://www.karnwong.me/posts/)
