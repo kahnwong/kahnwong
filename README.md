@@ -1,6 +1,8 @@
 ## On my Blog
 
 <!-- blog starts -->
+[Virtual machines setup for homelab](https://karnwong.me/posts/2026/08/virtual-machines-setup-for-homelab/) - 2026-08-03
+
 [Password isn't enough to protect your laptop](https://karnwong.me/posts/2026/07/password-isnt-enough-to-protect-your-laptop/) - 2026-07-25
 
 [What are (agent) sandboxes useful for?](https://karnwong.me/posts/2026/07/what-are-agent-sandboxes-useful-for/) - 2026-07-10
@@ -10,8 +12,6 @@
 [Book Highlights - Babel by Gaston Dorren](https://karnwong.me/posts/2026/04/book-highlights---babel-by-gaston-dorren/) - 2026-04-22
 
 [LLM tracing with MLflow AI Gateway](https://karnwong.me/posts/2026/04/llm-tracing-with-mlflow-ai-gateway/) - 2026-04-10
-
-[Garmin development setup on Linux](https://karnwong.me/posts/2026/04/garmin-development-setup-on-linux/) - 2026-04-06
 <!-- blog ends -->
 
 More on [karnwong.me](https://www.karnwong.me/posts/)
