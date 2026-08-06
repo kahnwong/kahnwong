@@ -1,6 +1,8 @@
 ## On my Blog
 
 <!-- blog starts -->
+[Coroot revisited](https://karnwong.me/posts/2026/08/coroot-revisited/) - 2026-08-06
+
 [Virtual machines setup for homelab](https://karnwong.me/posts/2026/08/virtual-machines-setup-for-homelab/) - 2026-08-03
 
 [Password isn't enough to protect your laptop](https://karnwong.me/posts/2026/07/password-isnt-enough-to-protect-your-laptop/) - 2026-07-25
@@ -10,8 +12,6 @@
 [Make logging in easier with passkeys](https://karnwong.me/posts/2026/07/make-logging-in-easier-with-passkeys/) - 2026-07-09
 
 [Book Highlights - Babel by Gaston Dorren](https://karnwong.me/posts/2026/04/book-highlights---babel-by-gaston-dorren/) - 2026-04-22
-
-[LLM tracing with MLflow AI Gateway](https://karnwong.me/posts/2026/04/llm-tracing-with-mlflow-ai-gateway/) - 2026-04-10
 <!-- blog ends -->
 
 More on [karnwong.me](https://www.karnwong.me/posts/)
