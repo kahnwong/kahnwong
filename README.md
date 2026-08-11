@@ -1,6 +1,8 @@
 ## On my Blog
 
 <!-- blog starts -->
+[Yes, you still need to know fundamentals even with AI](https://karnwong.me/posts/2026/08/yes-you-still-need-to-know-fundamentals-even-with-ai/) - 2026-08-11
+
 [Coroot revisited](https://karnwong.me/posts/2026/08/coroot-revisited/) - 2026-08-06
 
 [Virtual machines setup for homelab](https://karnwong.me/posts/2026/08/virtual-machines-setup-for-homelab/) - 2026-08-03
@@ -10,8 +12,6 @@
 [What are (agent) sandboxes useful for?](https://karnwong.me/posts/2026/07/what-are-agent-sandboxes-useful-for/) - 2026-07-10
 
 [Make logging in easier with passkeys](https://karnwong.me/posts/2026/07/make-logging-in-easier-with-passkeys/) - 2026-07-09
-
-[Book Highlights - Babel by Gaston Dorren](https://karnwong.me/posts/2026/04/book-highlights---babel-by-gaston-dorren/) - 2026-04-22
 <!-- blog ends -->
 
 More on [karnwong.me](https://www.karnwong.me/posts/)
