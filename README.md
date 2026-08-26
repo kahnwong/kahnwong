@@ -1,6 +1,8 @@
 ## On my Blog
 
 <!-- blog starts -->
+[GreenOps tools on Kubernetes](https://karnwong.me/posts/2026/08/greenops-tools-on-kubernetes/) - 2026-08-26
+
 [ARM64 can reduce your infra cost - with a catch](https://karnwong.me/posts/2026/08/arm64-can-reduce-your-infra-cost---with-a-catch/) - 2026-08-24
 
 [Yes, you still need to know fundamentals even with AI](https://karnwong.me/posts/2026/08/yes-you-still-need-to-know-fundamentals-even-with-ai/) - 2026-08-11
@@ -10,8 +12,6 @@
 [Virtual machines setup for homelab](https://karnwong.me/posts/2026/08/virtual-machines-setup-for-homelab/) - 2026-08-03
 
 [Password isn't enough to protect your laptop](https://karnwong.me/posts/2026/07/password-isnt-enough-to-protect-your-laptop/) - 2026-07-25
-
-[What are (agent) sandboxes useful for?](https://karnwong.me/posts/2026/07/what-are-agent-sandboxes-useful-for/) - 2026-07-10
 <!-- blog ends -->
 
 More on [karnwong.me](https://www.karnwong.me/posts/)
