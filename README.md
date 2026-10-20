@@ -1,6 +1,8 @@
 ## On my Blog
 
 <!-- blog starts -->
+[Homelab virtual machine management gui roundup](https://karnwong.me/posts/2026/10/homelab-virtual-machine-management-gui-roundup/) - 2026-10-20
+
 [Book Highlights - ALIEN Thinking by Cyril Bouquet, Jean-Louis Barsoux, Michael Wade](https://karnwong.me/posts/2026/10/book-highlights---alien-thinking-by-cyril-bouquet-jean-louis-barsoux-michael-wade/) - 2026-10-15
 
 [Book Highlights - The Art of Leadership by Michael Lopp](https://karnwong.me/posts/2026/09/book-highlights---the-art-of-leadership-by-michael-lopp/) - 2026-09-20
@@ -10,8 +12,6 @@
 [ARM64 can reduce your infra cost - with a catch](https://karnwong.me/posts/2026/08/arm64-can-reduce-your-infra-cost---with-a-catch/) - 2026-08-24
 
 [Yes, you still need to know fundamentals even with AI](https://karnwong.me/posts/2026/08/yes-you-still-need-to-know-fundamentals-even-with-ai/) - 2026-08-11
-
-[Coroot revisited](https://karnwong.me/posts/2026/08/coroot-revisited/) - 2026-08-06
 <!-- blog ends -->
 
 More on [karnwong.me](https://www.karnwong.me/posts/)
