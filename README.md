@@ -1,6 +1,8 @@
 ## On my Blog
 
 <!-- blog starts -->
+[Flashy new things aren't always the answer](https://karnwong.me/posts/2026/10/flashy-new-things-arent-always-the-answer/) - 2026-10-21
+
 [Homelab virtual machine management gui roundup](https://karnwong.me/posts/2026/10/homelab-virtual-machine-management-gui-roundup/) - 2026-10-20
 
 [Book Highlights - ALIEN Thinking by Cyril Bouquet, Jean-Louis Barsoux, Michael Wade](https://karnwong.me/posts/2026/10/book-highlights---alien-thinking-by-cyril-bouquet-jean-louis-barsoux-michael-wade/) - 2026-10-15
@@ -10,8 +12,6 @@
 [GreenOps tools on Kubernetes](https://karnwong.me/posts/2026/08/greenops-tools-on-kubernetes/) - 2026-08-26
 
 [ARM64 can reduce your infra cost - with a catch](https://karnwong.me/posts/2026/08/arm64-can-reduce-your-infra-cost---with-a-catch/) - 2026-08-24
-
-[Yes, you still need to know fundamentals even with AI](https://karnwong.me/posts/2026/08/yes-you-still-need-to-know-fundamentals-even-with-ai/) - 2026-08-11
 <!-- blog ends -->
 
 More on [karnwong.me](https://www.karnwong.me/posts/)
