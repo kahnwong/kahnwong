@@ -1,6 +1,8 @@
 ## On my Blog
 
 <!-- blog starts -->
+[Multi-site fleet management with warpgate, tailscale and iroh](https://karnwong.me/posts/2026/11/multi-site-fleet-management-with-warpgate-tailscale-and-iroh/) - 2026-11-11
+
 [Crunching numbers on GPU vs CPU](https://karnwong.me/posts/2026/11/crunching-numbers-on-gpu-vs-cpu/) - 2026-11-06
 
 [Use YubiKey instead of fingerprint auth on Linux](https://karnwong.me/posts/2026/10/use-yubikey-instead-of-fingerprint-auth-on-linux/) - 2026-10-22
@@ -10,8 +12,6 @@
 [Homelab virtual machine management gui roundup](https://karnwong.me/posts/2026/10/homelab-virtual-machine-management-gui-roundup/) - 2026-10-20
 
 [Book Highlights - ALIEN Thinking by Cyril Bouquet, Jean-Louis Barsoux, Michael Wade](https://karnwong.me/posts/2026/10/book-highlights---alien-thinking-by-cyril-bouquet-jean-louis-barsoux-michael-wade/) - 2026-10-15
-
-[Book Highlights - The Art of Leadership by Michael Lopp](https://karnwong.me/posts/2026/09/book-highlights---the-art-of-leadership-by-michael-lopp/) - 2026-09-20
 <!-- blog ends -->
 
 More on [karnwong.me](https://www.karnwong.me/posts/)
