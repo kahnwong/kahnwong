@@ -1,6 +1,8 @@
 ## On my Blog
 
 <!-- blog starts -->
+[Recent AppArmor issue on Linux kernel 7.0.0-43](https://karnwong.me/posts/2026/11/recent-apparmor-issue-on-linux-kernel-7.0.0-43/) - 2026-11-17
+
 [Multi-site fleet management with warpgate, tailscale and iroh](https://karnwong.me/posts/2026/11/multi-site-fleet-management-with-warpgate-tailscale-and-iroh/) - 2026-11-11
 
 [Crunching numbers on GPU vs CPU](https://karnwong.me/posts/2026/11/crunching-numbers-on-gpu-vs-cpu/) - 2026-11-06
@@ -10,8 +12,6 @@
 [Flashy new things aren't always the answer](https://karnwong.me/posts/2026/10/flashy-new-things-arent-always-the-answer/) - 2026-10-21
 
 [Homelab virtual machine management gui roundup](https://karnwong.me/posts/2026/10/homelab-virtual-machine-management-gui-roundup/) - 2026-10-20
-
-[Book Highlights - ALIEN Thinking by Cyril Bouquet, Jean-Louis Barsoux, Michael Wade](https://karnwong.me/posts/2026/10/book-highlights---alien-thinking-by-cyril-bouquet-jean-louis-barsoux-michael-wade/) - 2026-10-15
 <!-- blog ends -->
 
 More on [karnwong.me](https://www.karnwong.me/posts/)
