@@ -67,10 +67,13 @@ More on [karnwong.me](https://www.karnwong.me/posts/)
 
 [//]: # (| <a href="https://subsonic-widgets.karnwong.me/now-playing.svg"><img src="https://subsonic-widgets.karnwong.me/now-playing.svg" width="540" height="64"></a> |)
 
-| 🎵 Random Album                                                                                                                                                   |
-|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| <img src="https://raw.githubusercontent.com/kahnwong/subsonic-widgets/refs/heads/generate/data/random-album-1.svg" width="540" height="64"></a> |
-| <img src="https://raw.githubusercontent.com/kahnwong/subsonic-widgets/refs/heads/generate/data/random-album-2.svg" width="540" height="64"></a> |
-| <img src="https://raw.githubusercontent.com/kahnwong/subsonic-widgets/refs/heads/generate/data/random-album-3.svg" width="540" height="64"></a> |
-| <img src="https://raw.githubusercontent.com/kahnwong/subsonic-widgets/refs/heads/generate/data/random-album-4.svg" width="540" height="64"></a> |
-| <img src="https://raw.githubusercontent.com/kahnwong/subsonic-widgets/refs/heads/generate/data/random-album-5.svg" width="540" height="64"></a> |
+<table>
+<thead><tr><th>🎵 Random Album</th></tr></thead>
+<tbody><tr><td>
+<img src="https://raw.githubusercontent.com/kahnwong/subsonic-widgets/refs/heads/generate/data/random-album-1.svg" width="540" height="64"><br>
+<img src="https://raw.githubusercontent.com/kahnwong/subsonic-widgets/refs/heads/generate/data/random-album-2.svg" width="540" height="64"><br>
+<img src="https://raw.githubusercontent.com/kahnwong/subsonic-widgets/refs/heads/generate/data/random-album-3.svg" width="540" height="64"><br>
+<img src="https://raw.githubusercontent.com/kahnwong/subsonic-widgets/refs/heads/generate/data/random-album-4.svg" width="540" height="64"><br>
+<img src="https://raw.githubusercontent.com/kahnwong/subsonic-widgets/refs/heads/generate/data/random-album-5.svg" width="540" height="64">
+</td></tr></tbody>
+</table>
