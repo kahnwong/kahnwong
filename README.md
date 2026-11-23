@@ -1,6 +1,8 @@
 ## On my Blog
 
 <!-- blog starts -->
+[Book Highlights - Maybe You Should Talk to Someone by Lori Gottlieb](https://karnwong.me/posts/2026/11/book-highlights---maybe-you-should-talk-to-someone-by-lori-gottlieb/) - 2026-11-23
+
 [Recent AppArmor issue on Linux kernel 7.0.0-43](https://karnwong.me/posts/2026/11/recent-apparmor-issue-on-linux-kernel-7.0.0-43/) - 2026-11-17
 
 [Multi-site fleet management with warpgate, tailscale and iroh](https://karnwong.me/posts/2026/11/multi-site-fleet-management-with-warpgate-tailscale-and-iroh/) - 2026-11-11
@@ -10,8 +12,6 @@
 [Use YubiKey instead of fingerprint auth on Linux](https://karnwong.me/posts/2026/10/use-yubikey-instead-of-fingerprint-auth-on-linux/) - 2026-10-22
 
 [Flashy new things aren't always the answer](https://karnwong.me/posts/2026/10/flashy-new-things-arent-always-the-answer/) - 2026-10-21
-
-[Homelab virtual machine management gui roundup](https://karnwong.me/posts/2026/10/homelab-virtual-machine-management-gui-roundup/) - 2026-10-20
 <!-- blog ends -->
 
 More on [karnwong.me](https://www.karnwong.me/posts/)
